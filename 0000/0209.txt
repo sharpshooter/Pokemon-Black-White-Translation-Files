@@ -4,7 +4,7 @@ Connecting to Nintendo Wi-Fi\xfffeConnection... Please wait a moment...
 \xf000Ā\x0001\x0000さんは こうかんあいてを\xfffeぼしゅうちゅう です
 \xf000Ā\x0001\x0000さんは\xfffeたいきちゅう です
 What would you like to seek?
-Invitation open. Waiting for a friend\xfffeto respond...
+Seeking participants...
 Suspend your invitation?
 つうしん たいきちゅう です\xfffeしばらく おまちください……
 Ｗｉ－Ｆｉせつぞくを\xfffeしゅうりょう しますか?
@@ -53,10 +53,10 @@ Disconnect
 \xf000Ā\x0001\x0000さんは こうかんちゅう です
 \xf000Ā\x0001\x0000さんは\xfffeボイスチャットちゅう です
 でんげんを きって\xfffeＷｉ－Ｆｉせっていを しますか?
-もういちど Connect to Nintendo Wi-Fi Connection?
+Reconnect to Nintendo Wi-Fi Connection?
 こうかんには てもちの ポケモンが\xfffe２ひき いじょう ひつようです
-ボイスチャットを オンにしました
-ボイスチャットを オフにしました
+Voice chat was turned ON.
+Voice chat was turned OFF.
 ???
 Single Battle
 Double Battle
