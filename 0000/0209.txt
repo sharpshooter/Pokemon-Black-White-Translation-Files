@@ -7,11 +7,11 @@ What would you like to seek?
 Seeking participants...
 Suspend your invitation?
 つうしん たいきちゅう です\xfffeしばらく おまちください……
-Ｗｉ－Ｆｉせつぞくを\xfffeしゅうりょう しますか?
+Would you like to log out of\xfffeNintendo WFC?
 レポートを かいています\xfffeでんげんを きらないでください
 \xf000Ā\x0001\x0000 invites you for\xfffea voice chat!
 \xf000Ā\x0001\x0000 appears to be busy...
-\xf000Ā\x0001\x0000さんとは\xfffeせつぞくすることが できません
+You can't connect with \xfffe\xf000Ā\x0001\x0000.
 Communicating with \xf000Ā\x0001\x0000...
 \xf000Ā\x0001\x0000 failed to respond...
 \xf000Ā\x0001\x0000 ended the voice chat.
@@ -22,9 +22,9 @@ Yes
 No
 Battle
 Battle
-たいせんちゅう
+In Battle
 Trade
-こうかんちゅう
+Trading...
 Voice Chat
 Invite
 Ｗｉ－Ｆｉせつぞくを やめる
@@ -32,26 +32,26 @@ Apply
 きろくを みる
 Cancel
 \xf000Ā\x0001\x0000
-グループ \xf000Ā\x0001\x0000
-たいせんせいせき
-かち\xf000봃\x0001\x0001\xf000ȃ\x0001\x0000
-まけ\xf000봃\x0001\x0001\xf000ȃ\x0001\x0000
-ポケモンこうかん
+Group \xf000Ā\x0001\x0000
+Battle Record
+W:\xf000봃\x0001\x0001\xf000ȃ\x0001\x0000
+L:\xf000봃\x0001\x0001\xf000ȃ\x0001\x0000
+Pokémon Trades
 \xf000봃\x0001\x0001\xf000ȃ\x0001\x0000
-りょうりかいすう
+Poffin Sessions
 \xf000ȃ\x0001\x0000かい
-さいごにあそんだひづけ
+Date Last Played
 Close
 \xf000ȃ\x0001\x0000/\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002
 \xf000Ā\x0001\x0000さんとの きろくです
 \xf000Ā\x0001\x0000さんから\xfffeさんかの もうしこみが ありました!\xf000븂\x0001<
 Would you like to have another\xfffebattle against \xf000Ā\x0001\x0000?
-\xf000Ā\x0001\x0000さんと もういちど\xfffeこうかんを しますか?
+Would you like to do another\xfffetrade with \xf000Ā\x0001\x0000?
 Standing by...
 Disconnect
-\xf000Ā\x0001\x0000さんは たいせんちゅう です
-\xf000Ā\x0001\x0000さんは こうかんちゅう です
-\xf000Ā\x0001\x0000さんは\xfffeボイスチャットちゅう です
+\xf000Ā\x0001\x0000 is in a battle.
+\xf000Ā\x0001\x0000 is trading.
+\xf000Ā\x0001\x0000 is having a voice chat.
 でんげんを きって\xfffeＷｉ－Ｆｉせっていを しますか?
 Reconnect to Nintendo WFC?
 こうかんには てもちの ポケモンが\xfffe２ひき いじょう ひつようです
@@ -67,21 +67,21 @@ Restricted
 Miracle Shooter On
 Miracle Shooter Off
 Your friend ended the communication\xfffebattle.
-つうしん たいきちゅう です\xfffeしばらく おまちください……
-てもちポケモンが １ひき なので\xfffeダブルバトルを あそべません!
+Communicating. Please stand by...
+You can't have a Double Battle\xfffeif you only have one Pokémon...
 もうしこみを ちゅうだん しますか?
 この ともだちと あそぶ あいだは\xfffeボイスチャットが オンに なります\xf000븁\x0000\xfffeこの ともだちと あそびますか?
 この ともだちと あそぶ あいだは\xfffeボイスチャットが オフに なります\xf000븁\x0000\xfffeこの ともだちと あそびますか?
 もうしこみを\xfffeちゅうだん しました
 この ともだちと\xfffeあそぶことが できません!
-あいての せんたくを まっています\xfffeしばらく おまちください
+Waiting for the other player to\xfffedecide. Please wait...
 みちぼしゅうちゅう
 じょうたいかいじょ
 つうしんエラーが はっせいしました\xfffe\xf000Ȅ\x0001\x0000
 ちえんONになります\xf000븁\x0000
 ちえんOFF＝つうじょうになります\xf000븁\x0000
-あるきまわり
-マルチバトル
+Walkabout
+Multi Battle
 ２ＢＩＴＡＤＰＣＭ
 ３ＢＩＴＡＤＰＣＭ
 ４ＢＩＴＡＤＰＣＭ
