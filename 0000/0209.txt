@@ -54,7 +54,7 @@ Disconnect
 \xf000Ā\x0001\x0000 is having a voice chat.
 でんげんを きって\xfffeＷｉ－Ｆｉせっていを しますか?
 Reconnect to Nintendo WFC?
-こうかんには てもちの ポケモンが\xfffe２ひき いじょう ひつようです
+You need at least two Pokémon\xfffeif you want to trade!
 Voice chat was turned ON.
 Voice chat was turned OFF.
 ???
@@ -70,8 +70,8 @@ Your friend ended the communication\xfffebattle.
 Communicating. Please stand by...
 You can't have a Double Battle\xfffeif you only have one Pokémon...
 もうしこみを ちゅうだん しますか?
-この ともだちと あそぶ あいだは\xfffeボイスチャットが オンに なります\xf000븁\x0000\xfffeこの ともだちと あそびますか?
-この ともだちと あそぶ あいだは\xfffeボイスチャットが オフに なります\xf000븁\x0000\xfffeこの ともだちと あそびますか?
+Voice chat will be turned ON while\xfffeyou play with this friend.\xf000븁\x0000\xfffeWould you like to respond to this\xfffefriend's invitation?
+Voice chat will be turned OFF while\xfffeyou play with this friend.\xf000븁\x0000\xfffeWould you like to respond to this\xfffefriend's invitation?
 もうしこみを\xfffeちゅうだん しました
 この ともだちと\xfffeあそぶことが できません!
 Waiting for the other player to\xfffedecide. Please wait...
