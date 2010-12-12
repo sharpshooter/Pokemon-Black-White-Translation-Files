@@ -186,10 +186,10 @@ Welcome to the Union Room!\xf000븁\x0000\xfffeIf you don't understand anything,
 Do you have any\xfffebusiness with me?
 What do you want\xfffeto ask about?
 たいせんには ５しゅるいの\xfffeモードがあります\xf000븁\x0000\xfffeシングルバトルは たたかいの ばに\xfffeポケモンを １ひき だして\xf000븀\x0000\xfffeふたりで たいせん します\xf000븁\x0000\xfffeダブルバトルは たたかいの ばに\xfffeポケモンを ２ひきずつ だして\xf000븀\x0000\xfffeふたりで たいせん します\xf000븁\x0000\xfffeトリプルバトルは たたかいの ばに\xfffeポケモンを ３ひきずつ だして\xf000븀\x0000\xfffeふたりで たいせん します\xf000븁\x0000\xfffeローテーションバトルは\xfffeポケモンを まえに １ひき\xfffeうしろに ２ひき だしながら\xf000븀\x0000\xfffeふたりで たいせん します\xf000븁\x0000\xfffeマルチバトルは たたかいの ばに\xfffe４にんで ポケモンを\xf000븀\x0000\xfffe１ひきずつ だして\xf000븀\x0000\xfffe２たい２で たいせん します\xf000븁\x0000
-おたがいの ポケモンを\xfffeこうかんすることが できます\xf000븁\x0000\xfffeあたらしい ひととの であいが\xfffeめずらしい ポケモンとの\xf000븀\x0000\xfffeであいになるかも しれませんね!\xf000븁\x0000
+You may trade your Pokémon with\xfffeother players. \xf000븁\x0000\xfffeMeeting new people could be a\xfffeshortcut to meeting rare Pokémon!\xf000븀\x0000
 レコードつうしん では\xfffeじぶんの きろくを\xf000븀\x0000\xfffeみんなで こうかんすることが できます\xf000븁\x0000\xfffeきろくを こうかんすることで\xfffeいったい なにがおきるのか!?\xf000븁\x0000\xfffeそれは じぶんの めで\xfffeたしかめてみて ください!\xf000븁\x0000\xfffe５にんまで さんか できるので\xfffeともだちと やってみてくださいね!\xf000븁\x0000
-ぐるぐるこうかん は もっている\xfffeタマゴを みんなで もちよって\xf000븀\x0000\xfffeこうかん することが できます\xf000븁\x0000\xfffeいったい どのタマゴがくるか?\xfffeどんな ポケモンの タマゴなのか?\xf000븀\x0000\xfffeわくわく ドキドキ ですね!\xf000븁\x0000\xfffe５にんまで さんか できるので\xfffeともだちと やってみてくださいね!\xf000븁\x0000
-みんなで おえかきを\xfffeすることが できます\xf000븁\x0000\xfffe１まいの かみの うえに\xfffeすきに えを かいてみてください!\xf000븁\x0000\xfffeみんなで かいた えは きっと\xfffeすばらしい えに なるはずですよ!\xf000븁\x0000\xfffe５にんまで さんか できるので\xfffeともだちと やってみて くださいね!\xf000븁\x0000
+In a Spin Trade, participants each bring\xfffean Egg for trading with others.\xf000븀\x0000\xfffeWhich Egg will you end up with?\xfffeWhat kind of Pokémon is in that Egg?\xf000븁\x0000\xfffeIt's quite exciting and fun!\xf000븀\x0000\xfffeUp to five players can take part. so\xfffetry it with your friends!\xf000븁\x0000
+You may get together with others\xfffeand draw.\xf000븁\x0000\xfffeYou all get to work on one sheet\xfffeof paper at the same time.\xf000븁\x0000\xfffeI'm sure drawing made by friends\xfffewill be a memorable masterpiece!\xf000븁\x0000\xfffeUp to five players can take part,\xfffeso try it with your friends!\xf000븁\x0000
 チャットで ことばを えらべば\xfffeユニオンルーム にいる\xf000븀\x0000\xfffeみんなに じぶんのことを\xf000븀\x0000\xfffeアピール することが できます!\xf000븁\x0000\xfffeじぶんが どんなひとか?\xfffeなにが したいのか?\xf000븁\x0000\xfffeどんどん\xfffeアピールしちゃってください!\xf000븁\x0000
 あ!\xfffeだれか きてますよ!\xf000븁\x0000\xfffeほらほら わたし じゃなくて あのひとと\xfffeおはなししては どうですか?\xf000븁\x0000
 だれも こないと\xfffeひまですね\xf000븁\x0000\xfffeなにか おもしろいこと\xfffeないかな……\xf000븁\x0000
