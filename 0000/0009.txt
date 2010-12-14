@@ -1,5 +1,5 @@
 ﻿Begin the battle\xfffeat the proper location!
-Please wait a moment.\xfffe(B to cancel)
+Please wait a moment...\xfffePress the B button to cancel.
 Then please choose\xfffethree Pokémon to enter.\xf000븁\x0000
 Then please choose\xfffefour Pokémon to enter.\xf000븁\x0000
 Then please choose\xfffesix Pokémon to enter.\xf000븁\x0000

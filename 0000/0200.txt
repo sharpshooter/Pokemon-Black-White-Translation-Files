@@ -276,7 +276,7 @@ On Hand
 Battle Box
 Quit
 As it does not meet conditions,\xfffeIt cannot be entered.
-Please wait a moment.\xfffe(B to cancel)
+Please wait a moment...\xfffePress the B button to cancel.
 Now, please choose\xfffea Pokémon to use.\xf000븂\x0001<
 Now, please choose\xfffethree Pokémon to use.\xf000븂\x0001<
 Now, please choose\xfffefour Pokémon to use.\xf000븂\x0001<
@@ -331,8 +331,8 @@ Refused.
 みたこともない あそびをしている!
 そっか!バイバイ!
 Now leaving.\xfffePlease wait a moment.\xf000븂\x0001<
-Please wait a moment.\xfffe(B to cancel)
-たいせんを しゅうりょう しますが\xfffeよろしいですか?
+Please wait a moment...\xfffePress the B button to cancel.
+Communication will be ended.\xfffeIs that OK?
 Pokémon On Hand
 Battle Box
 ...\xfffeThey look confused at the moment.
