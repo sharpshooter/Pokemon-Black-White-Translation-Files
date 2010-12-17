@@ -15,7 +15,7 @@ Communicating. Please stand by...
 こうかんする あいてに\xfffeせきがいせんを むけてください
 Pokémon Trades
 Party
-\xf000Ă\x0001\x0000と \xf000Ă\x0001\x0001を\xfffeこうかん しますか?
+Trade \xf000Ă\x0001\x0000 in return for\xfffe \xf000Ă\x0001\x0001?
 Lv. \xf000Ȃ\x0001\x0000
 しゅうりょうしますか?
 こうかんしました
@@ -47,7 +47,7 @@ Moves
 ♂
 ♀
 \xf000Ā\x0001\x0000から\xfffe\xf000Ă\x0001\x0001が おくられてきた
-\xf000Ă\x0001\x0001を\xfffeかわいがって あげてね!
+Take good care of \xf000Ă\x0001\x0001!
 つうしん しています\xfffeしばらく おまちください
 みつけたい ポケモンの\xfffeかしらもじを えらんでください
 えらんだ かしらもじのつく\xfffeポケモンは いません
@@ -95,14 +95,14 @@ Moves
 \xf000봂\x0000レ
 \xf000봂\x0000ロ
 \xf000봂\x0000ワ
-こうかんは\xfffeキャンセル されました
-そのポケモンを こうかんすると\xfffeぼうけん できなくなっちゃうよ!
+The trade has\xfffebeen canceled.
+If you trade that Pokémon, you'll\xfffeget stuck in your adventure!
 あいてが こうかんできない\xfffeポケモンを だしています
 じぶんが こうかんできない\xfffeポケモンを だしています
 たいせつな わざを おぼえているので\xfffeてもちから はずせません
 あいては ポケモンこうかんを\xfffeしたいようです
-こうかんを やめますか?
-あいての しゅうりょうを\xfffeまっています……
+Cancel trading?
+Waiting for the other player to\xfffefinish...
 Egg
 The mail it was holding was sent to\xfffethe PC!
 Are you sure you want to discard the\xfffemail?
