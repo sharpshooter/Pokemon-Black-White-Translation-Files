@@ -121,7 +121,7 @@ Please select up to three Pokémon to be\xfffetraded.
 かわいいポケモン
 こわいポケモン
 へんなポケモン
-なんでも
+Any
 Lv. 1 to 49
 Lv. 50
 Lv. 51 to 100
