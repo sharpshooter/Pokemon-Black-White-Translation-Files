@@ -1,4 +1,4 @@
-てもち
+Party
 Battle Box
 Quit
 てもちか バトルボックスの\xfffeどちらを つかうか えらんでください

@@ -100,7 +100,7 @@ Live Caster
 \xf000Ā\x0001\x0000さんと\xfffeこうかんを しますか?
 Accept
 View Rules
-てもち
+Party
 バトルボックス
 じょうけんを みたして いないので\xfffeたいせん できません
 シングルバトルの\xfffeせいげんなしを しますか?
