@@ -13,18 +13,18 @@ Communicating. Please stand by...
 フィーリングチェック
 ちゅうだん しますか?
 こうかんする あいてに\xfffeせきがいせんを むけてください
-ポケモンこうかん
+Pokémon Trades
 Party
 \xf000Ă\x0001\x0000と \xf000Ă\x0001\x0001を\xfffeこうかん しますか?
 Lv. \xf000Ȃ\x0001\x0000
 しゅうりょうしますか?
 こうかんしました
-しばらく おまちください
+Please wait a moment...
 あそぶないようが ちがったので\xfffeさいしょに もどります
-ここまでの かつやくを\xfffeポケモンレポートに かきこみますか?
+Would you like to save the game?
 Yes
 No
-ポケモンレポートに かきこんでいます\xfffeでんげんを きらないでください
+Saving...\xfffeDon't turn off the power.
 No.\xf000Ȃ\x0001\x0001
 \xf000ā\x0001\x0000
 \xf000Ă\x0001\x0000
@@ -103,12 +103,12 @@ Moves
 あいては ポケモンこうかんを\xfffeしたいようです
 こうかんを やめますか?
 あいての しゅうりょうを\xfffeまっています……
-タマゴ
-ポケモンが もっていた メールを\xfffeパソコンに てんそう しました!
-メールを すてますが\xfffeよろしいですか?
-メールボックスが いっぱいです\xfffeせいりしますか?
-メールを すてました
-とった メールを\xfffeパソコンに てんそう しました
+Egg
+The mail it was holding was sent to\xfffethe PC!
+Are you sure you want to discard the\xfffemail?
+The mailbox is full.\xfffeDo what with the Mail?
+The mail was discarded.
+The mail was sent to your PC.
 あいては メールを うけとれません\xfffeこうかんを キャンセル します
 \xf000ā\x0001\x0000
 Please select up to three Pokémon to be\xfffetraded.
