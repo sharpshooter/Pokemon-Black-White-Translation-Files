@@ -1,10 +1,10 @@
-こうかんにだす
+Trade
 Back
 あいてにみせる
-つよさをみる
-こうかんする
+Summary
+Trade
 Quit
-つうしん たいきちゅう!\xfffeしばらく おまちください
+Communicating. Please stand by...
 パートナーとなる あいてに\xfffeせきがいせんを むけてください
 リーダーに なりました!
 たいせん あいての リーダーに\xfffeせきがいせんを むけてください
@@ -16,7 +16,7 @@ Quit
 ポケモンこうかん
 Party
 \xf000Ă\x0001\x0000と \xf000Ă\x0001\x0001を\xfffeこうかん しますか?
-Ｌｖ．\xf000Ȃ\x0001\x0000
+Lv. \xf000Ȃ\x0001\x0000
 しゅうりょうしますか?
 こうかんしました
 しばらく おまちください
@@ -28,21 +28,21 @@ No
 No.\xf000Ȃ\x0001\x0001
 \xf000ā\x0001\x0000
 \xf000Ă\x0001\x0000
-ＨＰ
-こうげき
-ぼうぎょ
-とくこう
-とくぼう
-すばやさ
-せいかく
-とくせい
-もちもの
+HP
+Attack
+Defense
+Sp. Atk
+Sp. Def
+Speed
+Nature
+Ability
+Item
 \xf000Ȃ\x0001\x0000/\xf000Ȃ\x0001\x0001
 \xf000Ȃ\x0001\x0000
 \xf000Ĉ\x0001\x0000
 \xf000Ć\x0001\x0000
 \xf000ĉ\x0001\x0000
-もっているわざ
+Moves
 \xf000ć\x0001\x0000
 ♂
 ♀
@@ -122,9 +122,9 @@ Please select up to three Pokémon to be\xfffetraded.
 こわいポケモン
 へんなポケモン
 なんでも
-Ｌｖ．１からＬｖ．４９
-Ｌｖ．５０
-Ｌｖ．５１から１００
+Lv. 1 to 49
+Lv. 50
+Lv. 51 to 100
 けってい
 \xf000Ā\x0001\x0000
 \xf000Ă\x0001\x0000を \xf000Ā\x0001\x0001へ おくります!!\xfffeバイバイ \xf000Ă\x0001\x0000!
@@ -134,7 +134,7 @@ Please select up to three Pokémon to be\xfffetraded.
 こうかんきぼう
 Please select up to three Pokémon to be\xfffetraded.
 あいてに さしだす ポケモンは\xfffeこれで いいですか?
-あいての せんたくを まっています\xfffeしばらく おまちください……
+Waiting for your friend to finish...
 おたがい さしだした ポケモンから\xfffe１ひき えらびます よろしいですか?
 あいてが こうかんを\xfffeキャンセルしました
 あいては こうかん\xfffeしたがっている ようです
@@ -152,12 +152,12 @@ Please select up to three Pokémon to be\xfffetraded.
 あいてが こうかんを キャンセルしました\xfffeもういちど １ひき えらびなおしてください
 \xf000Ă\x0001\x0000を あずけます
 \xf000Ă\x0001\x0001を ひきとった
-せつぞくを きる
+Log Out
 \xf000Ă\x0001\x0000を \xf000Ā\x0001\x0001へ\xfffeおくります
 \xf000Ā\x0001\x0000から \xf000Ă\x0001\x0001が\xfffeおくられてきました
 つうしんを しっぱいしました
-つうしんエラーが はっせいしました\xfffe（１３２８０）
-つうしんエラーが はっせいしました\xfffe（１３２８１）
-つうしんエラーが はっせいしました\xfffe（１３２８２）
-つうしんエラーが はっせいしました\xfffe（１３２８３）
+There was a communication error.\xfffe(13280)
+There was a communication error.\xfffe(13281)
+There was a communication error.\xfffe(13282)
+There was a communication error.\xfffe(13283)
 ???
