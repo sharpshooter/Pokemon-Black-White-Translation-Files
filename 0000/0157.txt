@@ -48,8 +48,8 @@ Moves
 ♀
 \xf000Ā\x0001\x0000から\xfffe\xf000Ă\x0001\x0001が おくられてきた
 Take good care of \xf000Ă\x0001\x0001!
-つうしん しています\xfffeしばらく おまちください
-みつけたい ポケモンの\xfffeかしらもじを えらんでください
+Communicating. Please stand by...
+Search for Pokémon by the first letter\xfffeof its name.
 えらんだ かしらもじのつく\xfffeポケモンは いません
 \xf000봂\x0000ア
 \xf000봂\x0000イ
@@ -133,9 +133,9 @@ Lv. 51 to 100
 おかえり \xf000Ă\x0001\x0001!
 こうかんきぼう
 Please select up to three Pokémon to be\xfffetraded.
-あいてに さしだす ポケモンは\xfffeこれで いいですか?
+These Pokémon will be offered for\xfffetrading. Is this OK?
 Waiting for the other Trainer to\xfffechoose...
-おたがい さしだした ポケモンから\xfffe１ひき えらびます よろしいですか?
+Each Trainer will now select a Pokémon from\xfffetheir selections to trade. Proceed?
 あいてが こうかんを\xfffeキャンセルしました
 あいては こうかん\xfffeしたがっている ようです
 こうかんを\xfffeしゅうりょう しますか?
@@ -143,8 +143,8 @@ Waiting for the other Trainer to\xfffechoose...
 そのポケモンを あいてに\xfffeさしだすことは できません
 じぶんに こうかんできない ポケモンが\xfffeいます もういちど えらびなおしてください
 あいてに こうかんできない ポケモンが\xfffeいます もういちど えらびなおしてください
-ほしいポケモンを あいての さしだした\xfffeポケモンから １ひき えらんでください
-「\xf000Ă\x0001\x0000」と じぶんの「\xf000Ă\x0001\x0001」を\xfffeこうかんします よろしいですか?
+Please select the Pokémon you want.
+Trade \xf000Ă\x0001\x0000 in return for\xfffe\xf000Ă\x0001\x0001?
 あいてが こうかんを キャンセルしました\xfffeもういちど えらびなおしてください
 あいてに さしだした\xfffeポケモンを へんこうしますか?
 こうかんを キャンセルしました\xfffeもういちど えらびなおしてください
@@ -155,7 +155,7 @@ Waiting for the other Trainer to\xfffechoose...
 Log Out
 \xf000Ă\x0001\x0000を \xf000Ā\x0001\x0001へ\xfffeおくります
 \xf000Ā\x0001\x0000から \xf000Ă\x0001\x0001が\xfffeおくられてきました
-つうしんを しっぱいしました
+Communication error.
 There was a communication error.\xfffe(13280)
 There was a communication error.\xfffe(13281)
 There was a communication error.\xfffe(13282)
