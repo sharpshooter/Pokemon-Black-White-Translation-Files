@@ -1,6 +1,6 @@
 Trade
 Back
-あいてにみせる
+Offer Pokémon
 Summary
 Trade
 Quit
@@ -95,12 +95,12 @@ Search for Pokémon by the first letter\xfffeof its name.
 \xf000봂\x0000レ
 \xf000봂\x0000ロ
 \xf000봂\x0000ワ
-The trade has\xfffebeen canceled.
+The other Trainer wants to end the\xfffetrading session...
 If you trade that Pokémon, you'll\xfffeget stuck in your adventure!
 あいてが こうかんできない\xfffeポケモンを だしています
 じぶんが こうかんできない\xfffeポケモンを だしています
 たいせつな わざを おぼえているので\xfffeてもちから はずせません
-あいては ポケモンこうかんを\xfffeしたいようです
+Your friend apparently wants to\xfffetrade a Pokémon with you.
 Cancel trading?
 Waiting for the other player to\xfffefinish...
 Egg
@@ -111,7 +111,7 @@ The mail was discarded.
 The mail was sent to your PC.
 あいては メールを うけとれません\xfffeこうかんを キャンセル します
 \xf000ā\x0001\x0000
-Please select up to three Pokémon to be\xfffetraded.
+Please select up to three Pokémon to be\xfffeoffered for trade.
 \xf000봃\x0001\x0000えらびちゅう
 \xf000봃\x0001\x0000けっていずみ
 \xf000봃\x0001\x0000しゅうりょうまち
@@ -132,24 +132,24 @@ Lv. 51 to 100
 \xf000Ā\x0001\x0000の ところから\xfffe\xf000Ă\x0001\x0001が もどってきた!
 おかえり \xf000Ă\x0001\x0001!
 こうかんきぼう
-Please select up to three Pokémon to be\xfffetraded.
+Please select up to three Pokémon to be\xfffeoffered for trade.
 These Pokémon will be offered for\xfffetrading. Is this OK?
 Waiting for the other Trainer to\xfffechoose...
 Each Trainer will now select a Pokémon from\xfffetheir selections to trade. Proceed?
-あいてが こうかんを\xfffeキャンセルしました
+You canceled the trade.
 あいては こうかん\xfffeしたがっている ようです
-こうかんを\xfffeしゅうりょう しますか?
-こうかんを\xfffeしゅうりょう しました
+End the trading session?
+The trading session has been ended.
 そのポケモンを あいてに\xfffeさしだすことは できません
 じぶんに こうかんできない ポケモンが\xfffeいます もういちど えらびなおしてください
 あいてに こうかんできない ポケモンが\xfffeいます もういちど えらびなおしてください
 Please select the Pokémon you want.
 Trade \xf000Ă\x0001\x0000 in return for\xfffe\xf000Ă\x0001\x0001?
-あいてが こうかんを キャンセルしました\xfffeもういちど えらびなおしてください
-あいてに さしだした\xfffeポケモンを へんこうしますか?
-こうかんを キャンセルしました\xfffeもういちど えらびなおしてください
-こうかんを キャンセルしました\xfffeもういちど １ひき えらびなおしてください
-あいてが こうかんを キャンセルしました\xfffeもういちど １ひき えらびなおしてください
+The other Trainer canceled the trade.\xfffeReturning to the previous screen.
+Cancel trading?\xfffeYou will be returned to the previous screen.
+You canceled the trade.\xfffeReturning to the previous screen.
+You declined the trade.\xfffePlease reselect a Pokémon.
+The other Trainer declined the trade.\xfffePlease reselect a Pokémon.
 \xf000Ă\x0001\x0000を あずけます
 \xf000Ă\x0001\x0001を ひきとった
 Log Out
