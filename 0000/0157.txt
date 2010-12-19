@@ -46,7 +46,7 @@ Moves
 \xf000ć\x0001\x0000
 ♂
 ♀
-\xf000Ā\x0001\x0000から\xfffe\xf000Ă\x0001\x0001が おくられてきた
+\xf000Ā\x0001\x0000 sent over\xfffe\xf000Ă\x0001\x0001.
 Take good care of \xf000Ă\x0001\x0001!
 Communicating. Please stand by...
 Search for Pokémon by the first letter\xfffeof its name.
@@ -125,19 +125,19 @@ Any
 Lv. 1 to 49
 Lv. 50
 Lv. 51 to 100
-けってい
+OK
 \xf000Ā\x0001\x0000
-\xf000Ă\x0001\x0000を \xf000Ā\x0001\x0001へ おくります!!\xfffeバイバイ \xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000を \xf000Ā\x0001\x0001に かえします!\xfffeありがとう \xf000Ă\x0001\x0000!
-\xf000Ā\x0001\x0000の ところから\xfffe\xf000Ă\x0001\x0001が もどってきた!
-おかえり \xf000Ă\x0001\x0001!
+\xf000Ă\x0001\x0000 will be sent over to \xf000Ā\x0001\x0001.\xfffeBye-bye \xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0000 will be sent over to \xf000Ā\x0001\x0001.\xfffeBye-bye \xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0001 has returned from \xf000Ā\x0001\x0000!
+Welcome back, \xf000Ă\x0001\x0001!
 こうかんきぼう
 Please select up to three Pokémon to be\xfffeoffered for trade.
 These Pokémon will be offered for\xfffetrading. Is this OK?
 Waiting for the other Trainer to\xfffechoose...
 Each Trainer will now select a Pokémon from\xfffetheir selections to trade. Proceed?
 You canceled the trade.
-あいては こうかん\xfffeしたがっている ようです
+Your friend apparently wants to\xfffetrade a Pokémon with you.
 End the trading session?
 The trading session has been ended.
 そのポケモンを あいてに\xfffeさしだすことは できません
@@ -150,11 +150,11 @@ Cancel trading?\xfffeYou will be returned to the previous screen.
 You canceled the trade.\xfffeReturning to the previous screen.
 You declined the trade.\xfffePlease reselect a Pokémon.
 The other Trainer declined the trade.\xfffePlease reselect a Pokémon.
-\xf000Ă\x0001\x0000を あずけます
-\xf000Ă\x0001\x0001を ひきとった
+\xf000Ă\x0001\x0000 will be put on offer.
+\xf000Ă\x0001\x0001 was taken out.
 Log Out
-\xf000Ă\x0001\x0000を \xf000Ā\x0001\x0001へ\xfffeおくります
-\xf000Ā\x0001\x0000から \xf000Ă\x0001\x0001が\xfffeおくられてきました
+\xf000Ă\x0001\x0000 will be\xfffesent to \xf000Ā\x0001\x0001.
+\xf000Ā\x0001\x0000 sent over\xfffe\xf000Ă\x0001\x0001.
 Communication error.
 There was a communication error.\xfffe(13280)
 There was a communication error.\xfffe(13281)
