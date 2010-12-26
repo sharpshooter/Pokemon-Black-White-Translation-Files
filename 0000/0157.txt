@@ -50,7 +50,7 @@ Moves
 Take good care of \xf000Ă\x0001\x0001!
 Communicating. Please stand by...
 Search for Pokémon by the first letter\xfffeof its name.
-えらんだ かしらもじのつく\xfffeポケモンは いません
+No Pokémon were found!\xfffePlease choose another letter.
 \xf000봂\x0000ア
 \xf000봂\x0000イ
 \xf000봂\x0000ウ
@@ -112,10 +112,10 @@ The mail was sent to your PC.
 あいては メールを うけとれません\xfffeこうかんを キャンセル します
 \xf000ā\x0001\x0000
 Please select up to three Pokémon to be\xfffeoffered for trade.
-\xf000봃\x0001\x0000えらびちゅう
-\xf000봃\x0001\x0000けっていずみ
-\xf000봃\x0001\x0000しゅうりょうまち
-\xf000Ā\x0001\x0000の\xfffeほしいポケモン
+\xf000봃\x0001\x0000Selecting Pokémon
+\xf000봃\x0001\x0000Pokémon Selected
+\xf000봃\x0001\x0000Ending Trading
+Wants a\xfffe\xf000Ā\x0001\x0000
 すべてのポケモン
 かっこいいポケモン
 かわいいポケモン
