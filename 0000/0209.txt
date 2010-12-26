@@ -1,4 +1,4 @@
-Ｗｉ－Ｆｉせつぞくを かいしします
+Starting Nintendo Wi-Fi Connection
 Connecting to Nintendo Wi-Fi\xfffeConnection... Please wait a moment...
 \xf000Ā\x0001\x0000 is seeking someone\xfffeto battle.
 \xf000Ā\x0001\x0000 is seeking someone\xfffeto trade with.
@@ -8,7 +8,7 @@ Seeking participants...
 Suspend your invitation?
 つうしん たいきちゅう です\xfffeしばらく おまちください……
 Would you like to log out of\xfffeNintendo WFC?
-レポートを かいています\xfffeでんげんを きらないでください
+Saving...\xfffeDon’t turn off the power.
 \xf000Ā\x0001\x0000 invites you for\xfffea voice chat!
 \xf000Ā\x0001\x0000 appears to be busy...
 You can't connect with \xfffe\xf000Ā\x0001\x0000.
@@ -69,7 +69,7 @@ Miracle Shooter Off
 Your friend ended the communication\xfffebattle.
 Communicating. Please stand by...
 You can't have a Double Battle\xfffeif you only have one Pokémon...
-もうしこみを ちゅうだん しますか?
+Cancel your application?
 Voice chat will be turned ON while\xfffeyou play with this friend.\xf000븁\x0000\xfffeWould you like to respond to this\xfffefriend's invitation?
 Voice chat will be turned OFF while\xfffeyou play with this friend.\xf000븁\x0000\xfffeWould you like to respond to this\xfffefriend's invitation?
 もうしこみを\xfffeちゅうだん しました
@@ -91,7 +91,7 @@ Live Caster
 \xf000Ā\x0001\x0000さんは\xfffeボイスチャットを したいようです
 \xf000Ā\x0001\x0000さんは\xfffeライブキャスターちゅう です
 \xf000Ā\x0001\x0000さんは ライブキャスターの\xfffeあいてを ぼしゅうちゅう です
-せつぞくする
+Apply
 \xf000Ā\x0001\x0000さんが\xfffeはなしかけて きました……
 \xf000Ā\x0001\x0000さんと\xfffeあそびますか?
 \xf000Ā\x0001\x0000さんと\xfffeなにを しますか?
