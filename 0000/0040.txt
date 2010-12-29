@@ -42,7 +42,7 @@ Starting trade session...
 Location
 Disconnecting from Nintendo WFC.\xfffeIs this okay?
 Trading requires at least\xfffetwo Pokémon.
-Trade with Anyone
+Select All
 Attempt to trade with the\xfffeprevious Trainer?
 Delete
 Add 99
