@@ -1,6 +1,6 @@
 ﻿\xf000봂\x0000Trade With Anyone
-\xf000봂\x0000Appointed Trade
-Trade Wish
+\xf000봂\x0000Trade With Friends
+Trade Conditions
 Level
 Level 1 to 49
 Level 50
@@ -11,38 +11,38 @@ Cute
 Scary
 Weird
 Any
-Trade Search
-Looking for partners\xfffethat meet your needs...
+GTS Negotiation 
+Looking for Trainers\xfffethat meet your needs...
 Cancel
-Getting information about partner.
+Retrieving data from Trainer...
 Found a trade partner!
 Search
-Please choose a\xfffepartner to trade with.
+Please choose a\xfffeTrainer to trade with.
 Decide your trade conditions\xfffeand hit Search.
 Trade Partner
 Which will you trade?\xfffePlease choose one.
 Desired Pokémon
-Send Pokémon
+Pokémon to Send
 Yes
 No
-Appointment
+Invite
 \xf000Ā\x0001\x0000 \xf000봃\x0001\x0001ＩＤ：\xf000Ȅ\x0001\x0001\xfffe\xf000Ĥ\x0001\x0002
-There isn't yet anyone\xfffeto make an appointment with.
-Choose Appointment Partner
-Make an appointment with this person?
+You have no one in your\xfffePal Pad to trade with!
+Choose Trade Partner
+Attempt to trade with this\xfffeTrainer?
 Decide how to choose\xfffeyour trade partner.
 Quit
 \xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
-Greet
+Greeting
 \xf000봃\x0001\x0001\xf000Ȅ\x0001\x0000かい
 \xf000봂\x0000\xf000Ā\x0001\x0000
 Give up on search?
-Trading begins!
+Starting trade session...
 \xf000봃\x0001\x0001 Trade Count
 Location
-Disconnecting from Wi-Fi.\xfffeIs this okay?
-Tradiing requires at least\xfffetwo Pokémon on hand.
-Appointment with All
-Make appointment with\xfffeprevious trade partner?
+Disconnecting from Nintendo WFC.\xfffeIs this okay?
+Trading requires at least\xfffetwo Pokémon.
+Trade with Anyone
+Attempt to trade with the\xfffeprevious Trainer?
 Delete
 Add 99

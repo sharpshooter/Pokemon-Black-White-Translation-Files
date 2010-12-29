@@ -141,8 +141,8 @@ Your friend apparently wants to\xfffetrade a Pokémon with you.
 End the trading session?
 The trading session has been ended.
 そのポケモンを あいてに\xfffeさしだすことは できません
-じぶんに こうかんできない ポケモンが\xfffeいます もういちど えらびなおしてください
-あいてに こうかんできない ポケモンが\xfffeいます もういちど えらびなおしてください
+The trade could not be started.\xfffeReturning to the previous screen.
+The trade could not be started.\xfffeReturning to the previous screen.
 Please select the Pokémon you want.
 Trade \xf000Ă\x0001\x0000 in return for\xfffe\xf000Ă\x0001\x0001?
 The other Trainer canceled the trade.\xfffeReturning to the previous screen.
