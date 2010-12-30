@@ -1,14 +1,14 @@
 ＧＡＭＥ ＳＹＮＣ
 Ｗｉ－Ｆｉせってい
 ゲームシンクで あそぶための \xfffeデータをつくっても よろしいですか?
-Saving... \xfffePlease Wait
+Saving... \xfffeDon't turn off the power.
 Yes
 No
 レポートに かきこんでいます\xfffeしばらく おまちください
-おてもとの パソコンから\xfffeポケモングローバルリンクの\xfffeホームページに アクセスして\xfffeうえの ゲームシンクＩＤコードを\xfffeにゅうりょくすると ゲームシンクの\xfffeせっていが おこなえます\xfffe\xfffehttp://www.pokemon-gl.com/
+You may use an internet enabled PC\xfffeand register the above\xfffeGame Sync ID code at\xfffehttp://www.pokemon-gl.com
 ゲームシンクＩＤコードを\xfffeはっこうしました\xfffe\xfffeうえのゲームシンクＩＤコード は\xfffeゲームかいしじの タイトルメニュー\xfffeゲームシンクせっていから\xfffeみなおすことが できます\xf000븁\x0000
-おてもとのパソコンから\xfffeポケモングローバルリンクの\xfffeホームページに アクセスして\xfffeうえのゲームシンクＩＤコードを\xfffeにゅうりょくすると ゲームシンクの\xfffeせっていが おこなえます\xfffe\xfffehttp://www.pokemon-gl.com/
-ゲームシンクＩＤコード
+You may use an internet enabled PC\xfffeand register the above\xfffeGame Sync ID code at\xfffehttp://www.pokemon-gl.com
+Game Sync ID
 ゲームシンクＩＤコードを\xfffeレポートに かきこみました
 サーバーでエラーが はっせいしました\xfffeもういちど おためしください\xfffeもんだいが かいけつしないばあいは\xfffeとりあつかいせつめいしょの\xfffeこまったときは… を ごらんください\xfffe（エラーコード：１３２０１）
 サーバーでエラーが はっせいしました\xfffeもういちど おためしください\xfffeもんだいが かいけつしないばあいは\xfffeとりあつかいせつめいしょの\xfffeこまったときは… を ごらんください\xfffe（エラーコード：１３２０２）

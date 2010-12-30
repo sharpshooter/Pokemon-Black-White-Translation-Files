@@ -28,7 +28,7 @@ Random Matchup Free Mode\xfffewill be launched.\xf000븁\x0000
 Free Mode
 Rating Mode
 Quit
-Disconnect from the\xfffeGlobal Link?
+Disconnect from the Global\xfffeLink?
 Yes
 No
 Searching for an opponent.\xfffePlease stand by...
@@ -37,7 +37,7 @@ Cancel the search?
 Please choose the Pokémon to be\xfffe entered.
 Communicating. Please stand by...
 Continue using the Global Link?
-Do you want to end the match?
+Disconnect from the Global\xfffeLink?
 Saving.\xfffeDon't turn off the power.
 Random Matchup Rating Mode\xfffewill be launched.\xf000븁\x0000
 Waiting for the server to\xffferespond. Please wait a moment...
@@ -53,7 +53,7 @@ Quit
 Yes
 No
 たいかい データを\xfffeさがしています……
-Unable to proceed because the\xfffeGame Code ID is not registered.\xf000븀\x0000\xfffePlease preform a Game Sync and\xfffeusing an Internet enabled PC\xf000븁\x0000\xffferegister your Game Code ID at\xfffehttp://www.pokemon-gl.com/\xf000븀\x0000\xfffeThis code may be found in the main\xf000븀\x0000\xfffemenu by selecting GL: Game Sync\xf000븀\x0000\xfffeafter a successful Game Sync.\xf000븁\x0000\xfffeAfter preforming these\xfffesteps, please try again.\xf000븁\x0000
+Unable to proceed because the\xfffeGame Sync ID is not registered.\xf000븁\x0000\xfffePlease preform a Game Sync and\xfffeusing an Internet enabled PC\xf000븁\x0000\xffferegister your Game Sync ID at\xfffehttp://www.pokemon-gl.com/\xf000븁\x0000\xfffeThis code may be found in the main\xf000븀\x0000\xfffemenu by selecting GL: Game Sync\xf000븀\x0000\xfffeafter a successful Game Sync.\xf000븁\x0000\xfffeAfter preforming these\xfffesteps, please try again.\xf000븁\x0000
 さんか できる\xfffeたいかいが ありません\xf000븁\x0000\xfffeバトルたいかいは \xfffeいぜん さんかした たいかいには\xf000븀\x0000\xfffeさんか できません\xf000븁\x0000
 さんか できる たいかいが\xfffeみつかりませんでした\xf000븁\x0000\xfffeまた バトルたいかいは \xfffeいぜん さんかした たいかいには\xf000븀\x0000\xfffeさんか できません\xf000븁\x0000
 せんしゅしょうを こうしん します\xfffeでんげんを きらないで ください
