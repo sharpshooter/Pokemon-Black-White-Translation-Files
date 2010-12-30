@@ -40,20 +40,20 @@ Continue using the Global Link?
 Do you want to end the match?
 Saving.\xfffeDon't turn off the power.
 Random Matchup Rating Mode\xfffewill be launched.\xf000븁\x0000
-サーバー たいきちゅう です\xfffeしばらく おまちください
-つうしん たいきちゅうです……\xfffeしばらく おまちください
-ブラック．
-ホワイト．
+Waiting for the server to\xffferespond. Please wait a moment...
+Communicating.\xfffePlease stand by...
+Black
+White
 ポケモンバトル Ｗｉ－Ｆｉたいかいに\xfffeさんか しますか?
 さんかする
-せつめいを きく
+Info
 Quit
 Ｗｉ－Ｆｉたいかいは\xfffeポケモングローバルリンクで\xf000븀\x0000\xfffeとうろく すると さんか できます\xf000븁\x0000\xfffeたいかいの ルールや\xfffeかいさい きかんは\xf000븀\x0000\xfffeＰＧＬ ホームページで\xf000븀\x0000\xfffeかくにん してください\xf000븁\x0000
 たいかいへ さんかするのを\xfffeやめますか?
 Yes
 No
 たいかい データを\xfffeさがしています……
-ポケモングローバルリンクに\xfffeゲームシンクＩＤコードが\xf000븀\x0000\xfffeとうろく されていません\xf000븁\x0000\xfffeゲームシンク せっていを おこない\xfffeおてもとの パソコンで\xf000븀\x0000\xfffeポケモングローバルリンクの\xf000븀\x0000\xfffeホームページで\xf000븀\x0000\xfffeとうろくを おこなってください\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xf000븁\x0000
+Unable to proceed because the\xfffeGame Code ID is not registered.\xf000븀\x0000\xfffePlease preform a Game Sync and\xfffeusing an Internet enabled PC\xf000븁\x0000\xffferegister your Game Code ID at\xfffehttp://www.pokemon-gl.com/\xf000븀\x0000\xfffeThis code may be found in the main\xf000븀\x0000\xfffemenu by selecting GL: Game Sync\xf000븀\x0000\xfffeafter a successful Game Sync.\xf000븁\x0000\xfffeAfter preforming these\xfffesteps, please try again.\xf000븁\x0000
 さんか できる\xfffeたいかいが ありません\xf000븁\x0000\xfffeバトルたいかいは \xfffeいぜん さんかした たいかいには\xf000븀\x0000\xfffeさんか できません\xf000븁\x0000
 さんか できる たいかいが\xfffeみつかりませんでした\xf000븁\x0000\xfffeまた バトルたいかいは \xfffeいぜん さんかした たいかいには\xf000븀\x0000\xfffeさんか できません\xf000븁\x0000
 せんしゅしょうを こうしん します\xfffeでんげんを きらないで ください
