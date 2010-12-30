@@ -60,10 +60,10 @@ Updating Trainer Card.\xfffeDon't turn off the power.
 There are no tournaments taking\xfffeplace at this time.\xf000븁\x0000
 Ｗｉ－Ｆｉたいかいに さんかするため\xfffeデジタルせんしゅしょうを\xf000븀\x0000\xfffeこうしん します\xf000븁\x0000\xfffeデジタルせんしゅしょうを\xfffeうわがきしても よろしいですか?
 Ｗｉ－Ｆｉたいかいに さんかするため\xfffeデジタルせんしゅしょうを\xf000븀\x0000\xfffeこうしん します\xf000븁\x0000\xfffeぜんかいの たいかいで おこなった\xfffeバトルボックスの とうろくは\xf000븀\x0000\xfffeかいじょ されます\xf000븁\x0000\xfffeデジタルせんしゅしょうを\xfffeうわがきしても よろしいですか?
-デジタルせんしゅしょうを\xfffeこうしん しないと たいかいに\xf000븀\x0000\xfffeさんか できません\xf000븁\x0000\xfffeこうしんを やめますか?
-デジタルせんしゅしょうを\xfffeこうしん しています\xf000븁\x0000\xfffeでんげんを きらないでください
-Unable to update Trainer data.
-バトルボックスの ポケモンを\xfffeたいかいに とうろく します\xf000븁\x0000\xfffeちゅうい!\xfffeいちど とうろく すると\xf000븀\x0000\xfffeさんかを かいじょ するまで\xf000븀\x0000\xfffeバトルボックスへ ポケモンを\xf000븀\x0000\xfffeだしいれ できなくなります\xf000븁\x0000\xfffeバトルボックスの ポケモンを\xfffeとうろく しても よろしいですか?
+Your Trainer Card must be updated\xfffein order to participate.\xf000븀\x0000\xfffeIf you cancel, you can't continue.\xf000븁\x0000\xfffeDo you really want to cancel?
+Updating Trainer Card.\xfffeDon't turn off the power.
+Unable to update Trainer Card data.
+Please place the Pokémon taking\xfffepart into the Battle Box.\xf000븁\x0000\xfffeWARNING!\xfffeOnce registered, the Battle\xf000븀\x0000\xfffeBox will be locked!\xf000븀\x0000\xfffeバトルボックスへ ポケモンを\xf000븀\x0000\xfffeだしいれ できなくなります\xf000븁\x0000\xfffeバトルボックスの ポケモンを\xfffeとうろく しても よろしいですか?
 Yes
 No
 Cancel registration?
@@ -101,17 +101,17 @@ L\xf000Ȃ\x0001\x0000
 ♂
 ♀
 
-この たいかいに さんかちゅう です\xfffeポケモンを とうろく してください
-この たいかいに さんかちゅう です\xfffeバトルボックスを ロックしています
-さんかを かいじょすると\xfffeおなじ たいかいに さんか できません\xf000븁\x0000\xfffeかいじょしても よろしいですか?
-たいかいの さんかを かいじょ します\xfffeほんとうに よろしいですか?
-かいじょちゅう です\xfffeでんげんを きらないで ください
+To particiapte in the tournament\xfffeplease register your Pokémon.
+While participating, the Battle\xfffeBox will be locked.
+If you cancel your registration,\xfffeyou will be unable to re-register.\xf000븁\x0000\xfffeAre you absolutely sure you\xfffewant to cancel?
+Are you sure you want to cancel\xffferyour registration?
+Cancelling registration.\xfffeDon't turn off the power.
 The registration of the Pokémon in\xfffethe Battle Box has been cancelled.\xf000븁\x0000
 The tournament is over.
 この たいかいは とちゅうで\xfffeさんかを かいじょ しました
 デジタルせんしゅしょうの\xfffeデータが ありません\xf000븁\x0000
 この たいかいは\xfffeほんたいと ＤＳカードを\xf000븀\x0000\xfffeさしかえた ため\xf000븁\x0000\xfffeたいかい への さんかが\xfffeかいじょに なりました\xf000븁\x0000
-If you cancel participating,\xfffeyou will be unable to continue\xf000븀\x0000\xfffeon in the tournament.\xf000븁\x0000\xfffeIs this okay?
+If you cancel participation,\xfffeyou will be unable to continue\xf000븀\x0000\xfffeon in the tournament.\xf000븁\x0000\xfffeIs this okay?
 Are you sure you want to stop\xfffeparticipating in this tournament?
 You have cancelled participation\xfffein the tournament.\xf000븁\x0000
 Back
