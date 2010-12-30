@@ -1,25 +1,25 @@
-\xf000봂\x0000ランダムマッチ フリーモード
-\xf000봂\x0000ランダムマッチ レーティングモード
-\xf000봂\x0000シングルバトル
-\xf000봂\x0000ダブルバトル
-\xf000봂\x0000トリプルバトル
-\xf000봂\x0000ローテーションバトル
-\xf000봂\x0000シューターバトル
-\xf000봂\x0000\xf000Ā\x0001\x0000 のせいせき
-\xf000봃\x0001\x0000レーティング：
+\xf000봂\x0000Random Matchup Free Mode
+\xf000봂\x0000Random Matchup Rating Mode
+\xf000봂\x0000Single Battle
+\xf000봂\x0000Double Battle
+\xf000봂\x0000Triple Battle
+\xf000봂\x0000Rotation Battle
+\xf000봂\x0000Shooter Battle
+\xf000봂\x0000\xf000Ā\x0001\x0000 Results
+\xf000봃\x0001\x0000 Rating:
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
-\xf000봃\x0001\x0000たいせん かいすう：
+\xf000봃\x0001\x0000 Battles:
 \xf000봃\x0001\x0000\xf000ȅ\x0001\x0000
-\xf000봃\x0001\x0000かったかず：
+\xf000봃\x0001\x0000 Wins：
 \xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
-\xf000봃\x0001\x0000まけたかず：
+\xf000봃\x0001\x0000 Losses：
 \xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
 \xf000봃\x0001\x0000\xf000ȃ\x0001\x0000.\xf000ȁ\x0001\x0001.\xf000ȁ\x0001\x0002－\xf000ȃ\x0001\x0003.\xf000ȁ\x0001\x0004.\xf000ȁ\x0001\x0005
-とうろく ポケモン
-とうろく ポケモン
-とうろく ポケモン
-すんでいるところ
-あいさつ
+Registered Pokémon
+Registered Pokémon
+Registered Pokémon
+Location
+Greeting
 \xf000Ĥ\x0001\x0000
 \xf000ĥ\x0001\x0000
 Communicating. Please stand by...
@@ -42,10 +42,10 @@ Saving.\xfffeDon't turn off the power.
 Random Matchup Rating Mode\xfffewill be launched.\xf000븁\x0000
 Waiting for the server to\xffferespond. Please wait a moment...
 Communicating.\xfffePlease stand by...
-Black
-White
-ポケモンバトル Ｗｉ－Ｆｉたいかいに\xfffeさんか しますか?
-さんかする
+Pokémon Black
+Pokémon White
+Battle a Trainer over Nintendo\xfffeusing Wi-Fi Connection?
+Yes
 Info
 Quit
 Ｗｉ－Ｆｉたいかいは\xfffeポケモングローバルリンクで\xf000븀\x0000\xfffeとうろく すると さんか できます\xf000븁\x0000\xfffeたいかいの ルールや\xfffeかいさい きかんは\xf000븀\x0000\xfffeＰＧＬ ホームページで\xf000븀\x0000\xfffeかくにん してください\xf000븁\x0000
