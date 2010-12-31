@@ -48,7 +48,7 @@ Battle a Trainer over Nintendo\xfffeusing Wi-Fi Connection?
 Yes
 Info
 Quit
-Ｗｉ－Ｆｉたいかいは\xfffeポケモングローバルリンクで\xf000븀\x0000\xfffeとうろく すると さんか できます\xf000븁\x0000\xfffeたいかいの ルールや\xfffeかいさい きかんは\xf000븀\x0000\xfffeＰＧＬ ホームページで\xf000븀\x0000\xfffeかくにん してください\xf000븁\x0000
+You may register for the upcoming\xfffeGlobal Link Pokémon Tournament.\xf000븀\x0000\xfffePlease check the Global Link website\xf000븁\x0000\xfffefor information about the time and rules\xf000븀\x0000\xfffeof the tournament.\xf000븁\x0000
 Stop participating in the\xfffetournament?
 Yes
 No
@@ -58,8 +58,8 @@ Unable to proceed because the\xfffeGame Sync ID is not registered.\xf000븁\x000
 さんか できる たいかいが\xfffeみつかりませんでした\xf000븁\x0000\xfffeまた バトルたいかいは \xfffeいぜん さんかした たいかいには\xf000븀\x0000\xfffeさんか できません\xf000븁\x0000
 Updating Trainer Card.\xfffeDon't turn off the power.
 There are no tournaments taking\xfffeplace at this time.\xf000븁\x0000
-Ｗｉ－Ｆｉたいかいに さんかするため\xfffeデジタルせんしゅしょうを\xf000븀\x0000\xfffeこうしん します\xf000븁\x0000\xfffeデジタルせんしゅしょうを\xfffeうわがきしても よろしいですか?
-Ｗｉ－Ｆｉたいかいに さんかするため\xfffeデジタルせんしゅしょうを\xf000븀\x0000\xfffeこうしん します\xf000븁\x0000\xfffeぜんかいの たいかいで おこなった\xfffeバトルボックスの とうろくは\xf000븀\x0000\xfffeかいじょ されます\xf000븁\x0000\xfffeデジタルせんしゅしょうを\xfffeうわがきしても よろしいですか?
+To participate, your Trainer Card must\xfffebe updated.\xf000븀\x0000\xfffeIs this okay?
+To participate, your Trainer Card must\xfffebe updated.  Any prior tournament registrations\xf000븀\x0000\xfffyou have must be canceled.\xf000븁\x0000\xfffeAre you sure you want to\xf000븀\x0000\xfffedo this?
 Your Trainer Card must be updated\xfffein order to participate.\xf000븀\x0000\xfffeIf you cancel, you can't continue.\xf000븁\x0000\xfffeDo you really want to cancel?
 Updating Trainer Card.\xfffeDon't turn off the power.
 Unable to update Trainer Card data.
@@ -71,31 +71,31 @@ Cancel your registration in the\xfffetournament?
 Communicating.\xfffeDon't turn off the power.
 Can't proceed because some of your\xfffePokémon aren't within regulations.\xf000븁\x0000
 Tournament registration has been\xfffesuccessfully completed!\xf000븁\x0000
-たいかいの じょうけんを\xfffeみたしていません\xf000븁\x0000\xfffeたいかいの ルールを かくにんして\xfffeバトルボックスに ポケモンを\xf000븀\x0000\xfffeセットしてください\xf000븁\x0000
-ポケモンバトル Ｗｉ－Ｆｉたいかい!\xfffeなにを しますか?
-Battle
+The Pokémon in the Battle Box\xfffedo not meet the conditions required\xf000븁\x0000\xfffefor entry into the tournament.\xfffePlease check the rules and try\xf000븀\x0000\xfffeagain.\xf000븁\x0000
+Continue in the Global Link\xfffePokémon Tournament?
+Yes
 Cancel Participation
 Quit
 Cancel participation in the\xfffetournament?
 Continue on?
-かいさい きかんが すぎました\xfffeたいかいを しゅうりょうします\xf000븁\x0000
-バトルボックスの とうろくを\xfffeかいじょ しました\xf000븁\x0000
-げんざい とうろく している\xfffeたいかいは ありません\xf000븁\x0000
-さんかを かいじょすると\xfffeおなじ たいかいに さんか できません\xf000븁\x0000\xfffeかいじょしても よろしいですか?
-たいかいの さんかを かいじょ します\xfffeほんとうに よろしいですか?
-たいせん あいてを\xfffeさがして います……
-たいせん あいてを\xfffeさがすのを やめますか?
-たいせん あいてが\xfffeみつかりました!
-たいせん けっかを\xfffeサーバーに おくりました\xf000븁\x0000\xfffeレーティングの けいさんは\xfffeすこし じかんが かかります\xf000븁\x0000\xfffeけいさんが おわると\xfffeたいせん あいてを さがすとき\xf000븀\x0000\xfffeせいせきに はんえい されます\xf000븁\x0000
-つうしん たいきちゅう です\xfffeでんげんを きらないで ください
-データを うけとっています\xfffeでんげんを きらないで ください
+The tournament is over.\xf000븁\x0000
+The registration of the Pokémon in\xfffethe Battle Box has been cancelled.\xf000븁\x0000
+You are not currently registered\xfffefor any tournaments.\xf000븁\x0000
+If you cancel your registration,\xfffeyou will be unable to re-register.\xf000븁\x0000\xfffeAre you absolutely sure you\xfffewant to cancel?
+Are you sure you want to stop\xfffeparticipating in this tournament?
+Searching for an opponent.\xfffePlease stand by...
+Cancel the search?
+An opponent has been found!
+The battle results have been\xfffesent to the server.\xf000븁\x0000\xfffeYour updated rating will be\xfffereflected in your profile\xf000븁\x0000\xfffein your next match.\xf000븁\x0000
+Communicating...\xfffeDon't turn off the power.
+Downloading data...\xfffeDon't turn off the power.
 Checking tournament data...
 Continue in the Global Link\xfffePokémon Tournament?
 Yes
 Cancel Participation
 Quit
-さんか とうろくした たいかいは\xfffeげんざい かいさい されていません\xf000븁\x0000\xfffeたいかいの にっていを\xfffeかくにんして おまちください\xf000븁\x0000
-バトルボックスに\xfffeポケモンが １ひきも いません\xf000븁\x0000\xfffeたいかいの ルールを かくにんして\xfffeバトルボックスに ポケモンを\xf000븀\x0000\xfffeセットして ください\xf000븁\x0000
+The tournament that you have registered\xfffefor doesn't have a schedule yet.\xf000븁\x0000\xfffePlease check back later for\xfffethe tournament schedule.\xf000븁\x0000
+There are no Pokémon in the Battle\xfffeBox.  Please check the\xf000븁\x0000\xfffetournament rules then place\xfffePokémon into the Battle Box.\xf000븁\x0000
 Battle results sent to the\xfffeserver.\xf000븁\x0000
 L\xf000Ȃ\x0001\x0000
 ♂
@@ -108,8 +108,8 @@ Are you sure you want to cancel\xffferyour registration?
 Cancelling registration.\xfffeDon't turn off the power.
 The registration of the Pokémon in\xfffethe Battle Box has been cancelled.\xf000븁\x0000
 The tournament is over.
-この たいかいは とちゅうで\xfffeさんかを かいじょ しました
-デジタルせんしゅしょうの\xfffeデータが ありません\xf000븁\x0000
+The tournament is already underway.\xfffeYour participation has been cancelled.
+There is no data on your\xfffeTrainer Card...\xf000븁\x0000
 この たいかいは\xfffeほんたいと ＤＳカードを\xf000븀\x0000\xfffeさしかえた ため\xf000븁\x0000\xfffeたいかい への さんかが\xfffeかいじょに なりました\xf000븁\x0000
 If you cancel participation,\xfffeyou will be unable to continue\xf000븀\x0000\xfffeon in the tournament.\xf000븁\x0000\xfffeIs this okay?
 Are you sure you want to stop\xfffeparticipating in this tournament?
