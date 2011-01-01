@@ -34,7 +34,7 @@ No
 Searching for an opponent.\xfffePlease stand by...
 An opponent has been found!
 Cancel the search?
-Please choose the Pokémon to be\xfffe entered.
+Please choose the Pokémon to be\xfffeentered.
 Communicating. Please stand by...
 Continue using the Global Link?
 Disconnect from the Global\xfffeLink?
