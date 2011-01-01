@@ -1,21 +1,24 @@
-﻿\xf000Ā\x0001\x0000
-Cheren
-Belle
-Pod
-Corn
-Dent
-Aloe
-Arty
-Camille
-Yacon
-Flo
-Hachiku
-Iris
-Shaga
-Shikimi
-Gima
-Renbu
-Caitlin
-Adeku
-N
-Getis
+﻿Man
+Girl
+Woman
+Boy
+Cool
+Cute
+Elegant
+Unique
+こせいてき
+Good balance
+Cool song
+Cute song
+Elegant song
+Unique song
+Transmitted Song
+Transmitted dummy
+Ears
+Head
+Face
+Face
+Body
+Hips
+Elbow
+Face
