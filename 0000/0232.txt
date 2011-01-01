@@ -7,7 +7,7 @@ No access point in range.\xfffePlease try again when closer to\xfffean access po
 No compatible access point in\xffferange. \xfffeCheck your connection settings\xfffeand try again. \xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code:（\xf000Ȅ\x0001\x0000)
 Unable to connect to the Nintendo\xfffeWi-Fi USB Connector. Check your\xfffeconnection settings in the\xfffeNintendo Wi-Fi Connection setup.\xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code:（\xf000Ȅ\x0001\x0000）
 Unable to connect to Nintendo \xfffeWi-Fi Connection. \xfffeCheck your connection settings.\xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code: \xf000Ȅ\x0001\x0000
-No response.\xfffeEither the player has been\xfffedisconnected, or you have\xfffebeen removed from the\xfffeplayer’s friend roster.\xfffeError code:（\xf000Ȅ\x0001\x0000）
+No response.\xfffeEither the player has been\xfffedisconnected, or you have\xfffebeen removed from the\xfffeplayer's friend roster.\xfffeError code:（\xf000Ȅ\x0001\x0000）
 Communication error.\xfffeYou have been disconnected from\xfffeNintendo Wi-Fi Connection.\xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code:（\xf000Ȅ\x0001\x0000）
 Communication error.\xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code:（\xf000Ȅ\x0001\x0000）
 Download failed.\xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code:（\xf000Ȅ\x0001\x0000）
@@ -16,7 +16,7 @@ Communication error...
 Unknown Nintendo Wi-Fi error.\xfffeThis might be caused by a\xfffeinternal software error.\xfffe\xfffe\xfffeError code:（\xf000Ȅ\x0001\x0000）
 Your Nintendo Wi-Fi Connection\xfffeUser Information may have been\xfffeerased. Check your connection\xfffesettings with the Nintendo\xfffeWi-Fi Connection configuration.
 Connect to Nintendo Wi-Fi Connection?
-Nintendo Wi-Fi Connection treats\xfffeyour Nintendo DS Game Card\xfffeand the system as a set. Save\xfffethis system’s Nintendo Wi-Fi\xfffeConnection User Information\xfffeto this Game Card\xfffeand connect to Nintendo\xfffeWi-Fi Connection?
+Nintendo Wi-Fi Connection treats\xfffeyour Nintendo DS Game Card\xfffeand the system as a set. Save\xfffethis system's Nintendo Wi-Fi\xfffeConnection User Information\xfffeto this Game Card\xfffeand connect to Nintendo\xfffeWi-Fi Connection?
 Nintendo Wi-Fi Connection User\xfffeInformation for this system\xfffehas been saved to the Game Card.\xfffeFrom now on, please use this\xfffesystem to connect to\xfffeNintendo Wi-Fi Connection.
 Unable to connect to Nintendo\xfffeWi-Fi Connection because the\xfffeNintendo Wi-Fi Connection User\xfffeInformation from the system\xfffeand the Game Card do not match.
 Update Nintendo Wi-Fi Connection\xfffeUser Information saved on the\xfffeGame Card?\xfffeWhen you update your Nintendo\xfffeWi-Fi Connection User\xfffeInformation, you will lose all\xfffedata that was used to connect\xfffeto Nintendo Wi-Fi Connection.
@@ -28,23 +28,23 @@ Disconnecting from Nintendo Wi-Fi\xfffeConnection...
 You have been disconnected from\xfffeNintendo Wi-Fi Connection.\xf000븂\x0001d
 Yes
 No
-Saving...\xfffeDon’t turn off the power.
+Saving...\xfffeDon't turn off the power.
 Communicating...\xfffeDon't turn off the power.
 Ｗｉ－Ｆｉコネクションの\xfffeせっていを おこなうには\xfffeほんたいせっていの\xfffeインターネットの こうもくまで\xfffeいどうして ください
 There was a communication error\xfffein the Wi-Fi Plaza.\xfffeError code: （\xf000Ȅ\x0001\x0000）
 りようきやく に\xfffeどういする ひつようが あります\xfffeほんたいせっていで りようきやく に\xfffeどういして ください\xfffe（５０５９９）
 \xf000봂\x0000Nintendo Wi-Fi Connection
 \xf000봂\x0000Nintendo Wi-Fi Connection
-つうしんエラー に よって\xfffeＷｉ－Ｆｉコネクション から\xfffeせつだん されました\xfffe\xfffeもういちど \xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく しますか?
-ほんとうに こうしん しても\xfffeよろしいですか?\xfffe\xfffeちゅうい\xfffeいま とうろく している\xfffeＷｉ－Ｆｉたいかいは\xfffeさんかが かいじょに なります
+つうしんエラー に よって\xfffeＷｉ－Ｆｉコネクション から\xfffeせつだん されました\xfffe\xfffeもういちど \xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく しますか？
+ほんとうに こうしん しても\xfffeよろしいですか？\xfffe\xfffeちゅうい\xfffeいま とうろく している\xfffeＷｉ－Ｆｉたいかいは\xfffeさんかが かいじょに なります
 ほんたいの むせんつうしんが\xfffeオフに なっています\xfffeほんたいせっていで むせんつうしんを\xfffeオンに してください\xfffe（５０６９９）
 あいてとの せつぞくが\xfffeせつだん されました
 つうしんエラーが はっせいしました\xfffeでんげんを きってください
 ほんたいの\xfffeＷｉ－Ｆｉユーザーじょうほう が\xfffeきえた かのうせい が あります\xfffe\xfffeほんたい せっていの\xfffeインターネットの せってい で\xfffeせつぞくさきの せってい を\xfffeごかくにん ください
-Ｗｉ－Ｆｉコネクションでは\xfffeセーブデータと ほんたいを\xfffeセットで あつかいます\xfffeセーブデータに ほんたいの\xfffeＷｉ－Ｆｉユーザーじょうほう を\xfffeほぞん して\xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく しますか?
+Ｗｉ－Ｆｉコネクションでは\xfffeセーブデータと ほんたいを\xfffeセットで あつかいます\xfffeセーブデータに ほんたいの\xfffeＷｉ－Ｆｉユーザーじょうほう を\xfffeほぞん して\xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく しますか？
 この ほんたいの\xfffeＷｉ－Ｆｉユーザーじょうほう を\xfffeセーブデータに\xfffeほぞん しました\xfffeこんごの Ｗｉ－Ｆｉコネクションへの\xfffeせつぞくは\xfffeこの ほんたいを\xfffeおつかい ください
 ほんたいと セーブデータの\xfffeＷｉ－Ｆｉユーザーじょうほう が\xfffeちがうため\xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく できません
-セーブデータに ほぞん されている\xfffeＷｉ－Ｆｉユーザーじょうほう を\xfffeこうしん しますか?\xfffeＷｉ－Ｆｉユーザーじょうほう を\xfffeこうしん すると\xfffeＷｉ－Ｆｉコネクションで\xfffeこれまで おつかいに なっていた\xfffeデータは うしなわれてしまいます
+セーブデータに ほぞん されている\xfffeＷｉ－Ｆｉユーザーじょうほう を\xfffeこうしん しますか？\xfffeＷｉ－Ｆｉユーザーじょうほう を\xfffeこうしん すると\xfffeＷｉ－Ｆｉコネクションで\xfffeこれまで おつかいに なっていた\xfffeデータは うしなわれてしまいます
 No access point in range.\xfffePlease try again when closer to\xfffean access point.\xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code:（\xf000Ȅ\x0001\x0000）
 This Nintendo Wi-Fi Connection ID\xfffewas removed because it was\xfffeinactive for a long time. \xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code:（\xf000Ȅ\x0001\x0000）
 No access point in range.\xfffePlease try again when closer to\xfffean access point.\xfffe\xfffeFor help, visit\xfffesupport.nintendo.com.\xfffeError code: \xf000Ȅ\x0001\x0000

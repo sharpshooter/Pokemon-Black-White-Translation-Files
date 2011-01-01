@@ -466,7 +466,7 @@ Dark Void
 Seed Flare
 Ominous Wind
 Shadow Force
-Claw Sharpen
+Hone Claws
 Wide Guard
 Guard Share
 Power Share
@@ -490,7 +490,7 @@ Nitro Charge
 Coil
 Ankle Kick
 Acid Bomb
-Trickery
+Foul Play
 Simple Beam
 Make Friends
 You First
@@ -526,7 +526,7 @@ Ice Breath
 Dragon Tail
 Cheer Up
 Electra Net
-Wild Bolt
+Wild Charge
 Drill Liner
 Double Chop
 Heart Stamp
@@ -539,7 +539,7 @@ Hard Roller
 Cotton Guard
 Night Burst
 Psycho Break
-Sweep Slap
+Tail Slap
 Gale
 Afro Break
 Gear Saucer

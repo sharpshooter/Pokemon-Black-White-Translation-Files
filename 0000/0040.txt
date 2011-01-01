@@ -34,7 +34,7 @@ Decide how to choose\xfffeyour trade partner.
 Quit
 \xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
 Greeting
-\xf000봃\x0001\x0001\xf000Ȅ\x0001\x0000かい
+\xf000봃\x0001\x0001\xf000Ȅ\x0001\x0000 time(s)
 \xf000봂\x0000\xf000Ā\x0001\x0000
 Give up on search?
 Starting trade session...

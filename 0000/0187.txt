@@ -65,17 +65,17 @@ Pokémon Type: ???\xfffeYou've beaten this leader!
 Second badge.\xfffeShippo City Gym
 Leader: Aloe
 Pokémon Type: Normal\xfffeYou've beaten this leader!
-Third badge.\xfffeHiun City Gym
-Leader: Arti
+Third badge.\xfffeCastelia City Gym
+Leader: Arty
 Pokémon Type: Bug\xfffeYou've beaten this leader!
 Fourth badge.\xfffeRaimon City Gym
-Leader: Kamitsure
+Leader: Camille
 Pokémon Type: Electric\xfffeYou've beaten this leader!
 Fifth badge.\xfffeHodomoe City Gym
 Leader: Yacon
 Pokémon Type: Ground\xfffeYou've beaten this leader!
 Sixth badge.\xfffeFukiyose City Gym
-Leader: Fuuro
+Leader: Flo
 Pokémon Type: Flying\xfffeYou've beaten this leader!
 Seventh badge.\xfffeSekka City Gym
 Leader: Hachiku

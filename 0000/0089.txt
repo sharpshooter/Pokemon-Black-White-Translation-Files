@@ -1,12 +1,12 @@
-﻿----------
+﻿－－－－－－－－－－
 Mysterious Place
-Distant Place
-\xf000Ā\x0001\x0000 \xf000ą\x0001\x0001
+Faraway Place
+\xf000Ā\x0001\x0000の\xf000ą\x0001\x0001
 Kanoko Town
 Karakusa Town
 Sanyou City
-Shippou City
-Hiun City
+Shippo City
+Castelia City
 Raimon City
 Hodomoe City
 Fukiyose City
@@ -44,7 +44,7 @@ Sazanami Town
 Kanawa Town
 Pokémon League
 N's Castle
-Royal Isshu Route
+Royal Unova Route
 Gear Station
 Battle Subway
 Musical Hall
@@ -53,7 +53,7 @@ White Forest
 United Tower
 Groundwater Cave
 Fukiyose Cave
-Shisaku Plains
+Meditative Plains
 Tower of Heaven
 Sekka Wetlands
 Shopping Mall
@@ -87,7 +87,7 @@ Thunderstone Cave
 Mt. Helix
 Dragon-Helix Tower
 Great Hall
-Hodomoe Drawbridge
+Hobomoe Drawbridge
 Cylinder Bridge
 Village Bridge
 Wonder Bridge
@@ -106,8 +106,8 @@ Kagome Town
 Sazanami Town
 Karakusa Gate
 Sazanami Gate
-Shippou Gate
-Hiun Gate
+Shippo Gate
+Castelia Gate
 Raimon Gate
 Souryuu Gate
 Black Gate

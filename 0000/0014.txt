@@ -92,7 +92,7 @@ Marx
 Matizo
 Shingen
 Cloud
-Basileus
+Basiléus
 Hoffman
 Sada
 Yodo
@@ -306,9 +306,9 @@ Touko
 Touko
 Nobori
 Nobori
-Fudari
-Fudari
+Kudari
+Kudari
 Nobori
-Fudari
+Kudari
 Nobori
-Fudari
+Kudari
