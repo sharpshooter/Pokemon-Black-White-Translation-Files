@@ -79,7 +79,7 @@ Quit
 Cancel participation in the\xfffetournament?
 Continue on?
 The tournament is over.\xf000븁\x0000
-The registration of the Pokémon in\xfffethe Battle Box has been cancelled.\xf000븁\x0000
+The registration of the Pokémon in\xfffethe Battle Box has been canceled.\xf000븁\x0000
 You are not currently registered\xfffefor any tournaments.\xf000븁\x0000
 If you cancel your registration,\xfffeyou will be unable to re-register.\xf000븁\x0000\xfffeAre you absolutely sure you\xfffewant to cancel?
 Are you sure you want to stop\xfffeparticipating in this tournament?
@@ -106,14 +106,14 @@ While participating, the Battle\xfffeBox will be locked.
 If you cancel your registration,\xfffeyou will be unable to re-register.\xf000븁\x0000\xfffeAre you absolutely sure you\xfffewant to cancel?
 Are you sure you want to cancel\xffferyour registration?
 Cancelling registration.\xfffeDon't turn off the power.
-The registration of the Pokémon in\xfffethe Battle Box has been cancelled.\xf000븁\x0000
+The registration of the Pokémon in\xfffethe Battle Box has been canceled.\xf000븁\x0000
 The tournament is over.
-The tournament is already underway.\xfffeYour participation has been cancelled.
+The tournament is already underway.\xfffeYour participation has been canceled.
 There is no data on your\xfffeTrainer Card...\xf000븁\x0000
 この たいかいは\xfffeほんたいと ＤＳカードを\xf000븀\x0000\xfffeさしかえた ため\xf000븁\x0000\xfffeたいかい への さんかが\xfffeかいじょに なりました\xf000븁\x0000
 If you cancel participation,\xfffeyou will be unable to continue\xf000븀\x0000\xfffeon in the tournament.\xf000븁\x0000\xfffeIs this okay?
 Are you sure you want to stop\xfffeparticipating in this tournament?
-You have cancelled participation\xfffein the tournament.\xf000븁\x0000
+You have canceled participation\xfffein the tournament.\xf000븁\x0000
 Back
 Cancel participation?
 Yes
