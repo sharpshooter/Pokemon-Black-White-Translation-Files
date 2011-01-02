@@ -5,11 +5,11 @@ Saving... \xfffeDon't turn off the power.
 Yes
 No
 Saving... This may take a while.\xfffeDon't turn off the power.
-You may use an internet enabled PC\xfffeand register the above\xfffeGame Sync ID code at\xfffehttp://www.pokemon-gl.com
-A Game Sync ID has been acquired.\xfffe\xfffeYou may display the Game Sync ID\xfffeby selecting GL: Game Sync\xfffefrom the main menu.\xf000븁\x0000
+You may use an internet enabled PC\xfffeand register the above Game Sync\xfffeID code at\xfffehttp://www.pokemon-gl.com
+A Game Sync ID has been acquired.\xfffeIt is displayed above.\xfffe\xfffeYou may re-display the Game Sync ID\xfffeby selecting GL: Game Sync\xfffefrom the main menu.\xf000븁\x0000
 You may use an internet enabled PC\xfffeand register the above\xfffeGame Sync ID code at\xfffehttp://www.pokemon-gl.com
 Game Sync ID
-A Game Sync ID has been acquired.
+A Game Sync ID has been acquired.\xfffeYour save has been updated.
 An error occured on the game server.\xfffePlease try again later.\xfffe\xfffeIf the problem persists, please\xfffecheck the Instruction Manual.\xfffe（Error：１３２０１）
 A communication error occured.\xfffePlease try again later.\xfffe\xfffeIf the problem, persists, please\xfffecheck the Instruction Manual.\xfffe（Error：１３２０２）
 A communication error occured.\xfffePlease try again later.\xfffe\xfffeIf the problem, persists, please\xfffecheck the Instruction Manual.\xfffe（Error：１３２０３）
