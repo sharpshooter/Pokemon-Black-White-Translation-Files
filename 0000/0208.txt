@@ -96,7 +96,7 @@ Exchange
 End
 Yes
 No
-Holding
+Party
 Name
 Entrust Pokémon
 \xf000ċ\x0001\x0000
