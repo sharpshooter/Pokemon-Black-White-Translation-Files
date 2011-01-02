@@ -53,7 +53,7 @@ Stop participating in the\xfffetournament?
 Yes
 No
 Downloading tournament data.\xfffePlease wait a moment.
-Unable to proceed because the\xfffeGame Sync ID is not registered.\xf000븁\x0000\xfffePlease preform a Game Sync and\xfffeusing an Internet enabled PC\xf000븁\x0000\xffferegister your Game Sync ID at\xfffehttp://www.pokemon-gl.com/\xf000븁\x0000\xfffeThis code may be found in the main\xf000븀\x0000\xfffemenu by selecting GL: Game Sync\xf000븀\x0000\xfffeafter a successful Game Sync.\xf000븁\x0000\xfffeAfter preforming these\xfffesteps, please try again.\xf000븁\x0000
+Unable to proceed because the\xfffeGame Sync ID is not registered.\xf000븁\x0000\xfffePlease preform a Game Sync and\xfffeusing an Internet enabled PC\xf000븁\x0000\xffferegister your Game Sync ID at\xfffehttp://www.pokemon-gl.com/\xf000븁\x0000\xfffeThis code may be found in the main\xf000븁\x0000\xfffemenu by selecting GL: Game Sync\xf000븀\x0000\xfffeafter a successful Game Sync.\xf000븁\x0000\xfffeAfter preforming these\xfffesteps, please try again.\xf000븁\x0000
 さんか できる\xfffeたいかいが ありません\xf000븁\x0000\xfffeバトルたいかいは \xfffeいぜん さんかした たいかいには\xf000븀\x0000\xfffeさんか できません\xf000븁\x0000
 さんか できる たいかいが\xfffeみつかりませんでした\xf000븁\x0000\xfffeまた バトルたいかいは \xfffeいぜん さんかした たいかいには\xf000븀\x0000\xfffeさんか できません\xf000븁\x0000
 Updating Trainer Card.\xfffeDon't turn off the power.
