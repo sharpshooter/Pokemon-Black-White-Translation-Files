@@ -1,16 +1,16 @@
-﻿Welcome to the Global Link\xfffePokémon Tournament!\xf000븀\x0000\xfffeWhich method is the tournament\xfffeyou're about to join using?
-You may participate in the Global\xfffeLink Pokémon Tournament using\xfffeNintendo WFC.\xf000븀\x0000\xfffeIf you are at a Live Event Tournament, you\xfffemay use DS Wireless Communications.\xf000븀\x0000\xfffeTo enter the tournament, the Pokémon\xfffewhich are participating will need to\xf000븀\x0000\xfffebe placed into your Battle Box.\xf000븀\x0000\xfffePlease note that once you register\xfffethe Battle Box will be locked.\xf000븀\x0000\xfffeOnce locked, you will be unable\xfffeto make any changes to it unless\xf000븀\x0000\xfffeyou withdraw or complete the\xfffetournament.\xf000븁\x0000
+﻿Welcome to the Global Link\xfffePokémon Tournament!\xf000븁\x0000\xfffeWhich method is the tournament\xfffeyou're about to join using?
+You may participate in the Global\xfffeLink Pokémon Tournament using\xf000븁\x0000\xfffeNintendo WFC.\xf000븁\x0000\xfffeIf you are at a Live Event Tournament, you\xfffemay use DS Wireless Communications.\xf000븁\x0000\xfffeTo enter the tournament, the Pokémon\xfffewhich are participating will need to\xf000븁\x0000\xfffebe placed into your Battle Box.\xf000븁\x0000\xfffePlease note that once you register\xfffethe Battle Box will be locked.\xf000븁\x0000\xfffeOnce locked, you will be unable\xfffeto make any changes to it unless\xf000븁\x0000\xfffeyou withdraw or complete the\xfffetournament.\xf000븁\x0000
 Nintendo WFC
-DS Wireless Communications
+Live Event Tournament via Infrared
 View Trainer Card
 Info
 Back
 Connect
-Information about upcoming tournaments\xfffeis available through the\xfffeGlobal Link website:\xf000븀\x0000\xfffehttp://www.pokemon-gl.com/\xf000븀\x0000\xfffeYou may participate after registering\xfffeyour Game Sync ID on the website.\xf000븀\x0000\xfffeBe sure to check the tournament\xfffetimes and rules before entering.\xf000븁\x0000
+Information about upcoming tournaments\xfffeis available through the\xf000븁\x0000\xfffeGlobal Link website:\xfffehttp://www.pokemon-gl.com/\xf000븁\x0000\xfffeYou may participate after registering\xfffeyour Game Sync ID.\xf000븁\x0000\xfffeBe sure to check the tournament\xfffetimes and rules before entering.\xf000븁\x0000
 Connect through Nintendo WFC?
 Do you want to withdraw\xfffefrom the tournament?
 Yes
 No
 Cancel Participation
-Connect using\xfffeDS Wireless Communications?
-Information on upcoming Live Event\xfffetournaments is available on\xfffethe Offical Pokémon website.\xf000븀\x0000\xfffePlease check\xfffehttp://www.pokemon.co.jp/\xf000븀\x0000\xfffefor information on rules and times of\xfffeupcoming tournaments.\xf000븀\x0000\xfffe
+Connect using\xfffeInfrared?
+Information on upcoming Live Event\xfffetournaments is available on\xf000븁\x0000\xfffethe Offical Pokémon website.\xf000븁\x0000\xfffePlease check\xfffehttp://www.pokemon.co.jp/\xf000븁\x0000\xfffefor information on rules and times of\xfffeupcoming tournaments.\xf000븁\x0000\xfffe

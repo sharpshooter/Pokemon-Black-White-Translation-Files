@@ -6,7 +6,7 @@ Yes
 No
 Saving...\xfffeDon't turn off the power.
 Go to Wi-Fi Settings?\xfffe(Go to Wi-Fi connection)
-Now going to sleep.\xfffePlease wait a moment.
+Now going to sleep.  Please wait.\xfffeThis may take few minutes...
 Game Sync complete.
 Is it okay to\xfffewake the Pokémon?
 The Pokémon is awake.
@@ -45,6 +45,6 @@ To play in Pokémon's dreams,\xfffeyou must change the\xfffeGame Sync settings.
 For information on\xfffethe Game Sync settings,\xfffeconsult the instruction manual.
 \xf000Ă\x0001\x0000 woke up!
 There is already\xfffeanother save file written,\xf000븀\x0000so you could not save!\xf000븁\x0000For details,\xfffeplease consult the\xfffeinstruction manual.
-Game Sync ID code\xfffehas been issued.\xfffe\xfffeRe-check the above Game Sync ID\xfffewith the Game Sync settings\xfffeon the title screen menu\xfffewhen you start the game.\xf000븁\x0000
+A Game Sync ID code\xfffehas been acquired.\xfffe\xfffeThe above Game Sync ID\xfffecan be re-displayed by selecting\xfffeGL: Game Sync on the title screen \xfffewhen you start the game.\xf000븁\x0000
 By going to the Pokémon\xfffeGlobal Link homepage to\xfffechange settings, you can\xfffebetter enjoy Game Sync.\xfffehttp://www.pokemon-gl.com/\xfffeFor details, consult\xfffethe instruction manual.
 Your boxes are full!\xf000븁\x0000You can't wake a Pokémon until\xfffeyou take a Pokémon from the box.
