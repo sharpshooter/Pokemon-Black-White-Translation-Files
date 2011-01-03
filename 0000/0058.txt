@@ -1,6 +1,6 @@
 ライブたいかいに さんかするため\xfffeデジタルせんしゅしょうを\xf000븀\x0000\xfffeこうしん します\xf000븁\x0000\xfffeデジタルせんしゅしょうを\xfffeうわがきしても よろしいですか？
 ライブたいかいに さんかするため\xfffeデジタルせんしゅしょうを\xf000븀\x0000\xfffeこうしん します\xf000븁\x0000\xfffeぜんかいの たいかいで おこなった\xfffeバトルボックスの とうろくは\xf000븀\x0000\xfffeかいじょ されます\xf000븁\x0000\xfffeデジタルせんしゅしょうを\xfffeうわがきしても よろしいですか？
-Infared Communications will be started.\xfffePlease face your battle partner.\xf000븁\x0000\xfffePress the A button to continue.\xf000븁\x0000
+Infrared Communications will be started.\xfffePlease face your battle partner.\xf000븁\x0000
 いちど たいかいに とうろくして\xfffeかいじょ しています\xf000븁\x0000\xfffeこんかいの たいかいは\xfffeとうろく できません\xf000븁\x0000
 この たいかいに さんかして\xfffeたいせんを おえています\xf000븁\x0000\xfffeいちど さんかした たいかいは\xfffeとうろく できません\xf000븁\x0000
 バトルボックスの ポケモンを\xfffeたいかいに とうろくします\xf000븁\x0000\xfffeちゅうい！\xfffeいちど とうろくすると\xf000븀\x0000\xfffeさんかを かいじょ するまで\xf000븀\x0000\xfffeバトルボックスへ ポケモンを\xf000븀\x0000\xfffeだしいれ できなくなります\xf000븁\x0000\xfffeバトルボックスの ポケモンを\xfffeとうろく しても よろしいですか？
@@ -30,7 +30,7 @@ Abort the Infrared connection\xfffeattempt？
 ライブたいかいを しゅうりょうします\xf000븁\x0000
 おわる
 たいかいを しゅうりょうします\xfffeおつかれさまでした\xf000븁\x0000
-Attempting to connect.\xfffePlease wait.
+Attempting to connect...\xfffePlease wait.
 たいせん あいてを さがしています……\xfffeしばらく おまちください
 さいごの たいせんの きろくには\xfffeもんだいが あるため\xf000븀\x0000\xfffeさいせい できませんでした\xf000븁\x0000
 つうしん たいきちゅう です……\xfffeしばらく おまちください
