@@ -1,16 +1,16 @@
-﻿Welcome to the Global Link\xfffeBattle Tournament!
-By connecting to Wi-Fi, you\xfffecan battle other players\xf000븀\x0000\xfffefrom all over the world.\xf000븁\x0000\xfffeIt doesn't matter where the Trainers\xfffecome from, you can always battle!\xf000븁\x0000\xfffeYou can battle infinitly against\xfffeplayers via Wi-Fi.\xf000븁\x0000\xfffeThere is also a mode where\xfffecan battle players short-by.\xf000븁\x0000\xfffeJust remember: If you want\xfffebattle a random player,\xf000븀\x0000\xfffecome to the Battle Tournament!\xf000븀\x0000\xfffeThere always players to battle.\xf000븁\x0000
-Connect through Wi-Fi
-Connect through Wireless
-View digital player award
-Information
-Quit
-Enter
-You can't battle yet. You\xfffefirst have to register on\xf000븀\x0000\xfffethe Global Link website.\xf000븀\x0000\xfffeTo do this, make an account\xf000븀\x0000\xfffeon the following website.\xf000븁\x0000\xfffehttp://www.pokemon.co.jp/\xf000븁\x0000\xfffeGo on your PC and register\xfffean account on that website.\xf000븁\x0000
-Do what through Wi-Fi?
-Do you want to stop\xfffeparticipating?
+﻿Welcome to the Global Link\xfffePokémon Tournament!\xf000븀\x0000\xfffeWhich method is the tournament\xfffeyou're about to join using?
+You may participate in the Global\xfffeLink Pokémon Tournament using\xfffeNintendo WFC.\xf000븀\x0000\xfffeIf you are at a Live Event Tournament, you\xfffemay use DS Wireless Communications.\xf000븀\x0000\xfffeTo enter the tournament, the Pokémon\xfffewhich are participating will need to\xf000븀\x0000\xfffebe placed into your Battle Box.\xf000븀\x0000\xfffePlease note that once you register\xfffethe Battle Box will be locked.\xf000븀\x0000\xfffeOnce locked, you will be unable\xfffeto make any changes to it unless\xf000븀\x0000\xfffeyou withdraw or complete the\xfffetournament.\xf000븁\x0000
+Nintendo WFC
+DS Wireless Communications
+View Trainer Card
+Info
+Back
+Connect
+Information about upcoming tournaments\xfffeis available through the\xfffeGlobal Link website:\xf000븀\x0000\xfffehttp://www.pokemon-gl.com/\xf000븀\x0000\xfffeYou may participate after registering\xfffeyour Game Sync ID on the website.\xf000븀\x0000\xfffeBe sure to check the tournament\xfffetimes and rules before entering.\xf000븁\x0000
+Connect through Nintendo WFC?
+Do you want to withdraw\xfffefrom the tournament?
 Yes
 No
-Cancel participation
-Do what through Wireless?
-You can't battle yet. You\xfffefirst have to register on\xf000븀\x0000\xfffethe Global Link website.\xf000븀\x0000\xfffeTo do this, make an account\xf000븀\x0000\xfffeon the following website.\xf000븁\x0000\xfffehttp://www.pokemon.co.jp/\xf000븁\x0000\xfffeGo on your PC and register\xfffean account on that website.\xf000븁\x0000
+Cancel Participation
+Connect using\xfffeDS Wireless Communications?
+Information on upcoming Live Event\xfffetournaments is available on\xfffethe Offical Pokémon website.\xf000븀\x0000\xfffePlease check\xfffehttp://www.pokemon.co.jp/\xf000븀\x0000\xfffefor information on rules and times of\xfffeupcoming tournaments.\xf000븀\x0000\xfffe

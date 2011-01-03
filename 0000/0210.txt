@@ -53,7 +53,7 @@ Stop participating in the\xfffetournament?
 Yes
 No
 Downloading tournament data.\xfffePlease wait a moment.
-Unable to proceed because the\xfffeGame Sync ID is not registered.\xf000븁\x0000\xfffePlease preform a Game Sync and\xfffeusing an Internet enabled PC\xf000븁\x0000\xffferegister your Game Sync ID at\xfffehttp://www.pokemon-gl.com/\xf000븁\x0000\xfffeThis code may be found in the main\xf000븁\x0000\xfffemenu by selecting GL: Game Sync\xf000븀\x0000\xfffeafter a successful Game Sync.\xf000븁\x0000\xfffeAfter preforming these\xfffesteps, please try again.\xf000븁\x0000
+Unable to proceed because the\xfffeGame Sync ID is not registered.\xf000븁\x0000\xfffePlease preform a Game Sync and\xfffeusing an Internet enabled PC\xf000븁\x0000\xffferegister your Game Sync ID at\xfffehttp://www.pokemon-gl.com/\xf000븁\x0000\xfffeThis code may be found in the main\xf000븁\x0000\xfffemenu by selecting GL: Game Sync.\xf000븁\x0000\xfffeAfter preforming these\xfffesteps, please try again.\xf000븁\x0000
 さんか できる\xfffeたいかいが ありません\xf000븁\x0000\xfffeバトルたいかいは \xfffeいぜん さんかした たいかいには\xf000븀\x0000\xfffeさんか できません\xf000븁\x0000
 さんか できる たいかいが\xfffeみつかりませんでした\xf000븁\x0000\xfffeまた バトルたいかいは \xfffeいぜん さんかした たいかいには\xf000븀\x0000\xfffeさんか できません\xf000븁\x0000
 Updating Trainer Card.\xfffeDon't turn off the power.
@@ -63,7 +63,7 @@ To participate, your Trainer Card must\xfffebe updated.  Any prior tournament re
 Your Trainer Card must be updated\xfffein order to participate.\xf000븀\x0000\xfffeIf you cancel, you can't continue.\xf000븁\x0000\xfffeDo you really want to cancel?
 Updating Trainer Card.\xfffeDon't turn off the power.
 Unable to update Trainer Card data.
-Please place the Pokémon taking\xfffepart into the Battle Box.\xf000븁\x0000\xfffeWARNING!\xfffeOnce registered, the Battle\xf000븀\x0000\xfffeBox will be locked!\xf000븀\x0000\xfffeバトルボックスへ ポケモンを\xf000븀\x0000\xfffeだしいれ できなくなります\xf000븁\x0000\xfffeバトルボックスの ポケモンを\xfffeとうろく しても よろしいですか?
+The Pokémon in the Battle Box\xfffewill be registered.\xf000븁\x0000\xfffeWARNING!\xfffeOnce registered, the Battle\xf000븀\x0000\xfffeBox will be locked!\xf000븀\x0000\xfffeYou will be unable to make any\xf000븀\x0000\xfffechanges to the Pokémon in the\xf000븁\x0000\xfffeBattle Box until the lock\xfffeis released.  Continue?
 Yes
 No
 Cancel registration?
