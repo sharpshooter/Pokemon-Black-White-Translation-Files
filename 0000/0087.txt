@@ -21,4 +21,4 @@ An error occured on the game server.\xfffePlease try again later.\xfffe\xfffeIf 
 A communication error occured.\xfffePlease try again later.\xfffe\xfffeIf the problem, persists, please\xfffecheck the Instruction Manual.\xfffe（Error：１３２０９）
 An error occured on the game server.\xfffePlease try again later.\xfffe\xfffeIf the problem persists, please\xfffecheck the Instruction Manual.\xfffe（Error：１３２１０）
 The server is congested.\xfffeA connection could not be established.\xfffe\xfffePlease wait awhile and\xffftry again later.\xfffe（Error：１３２１１）
-The server is currently down for\xfffemaintenance.\xfffe\xfffeAdditional details are available\xfffon the Global Link website.\xfffehttp://www.pokemon-gl.com/\xfffe（Error：１３２１２）
+The server is currently down for\xfffemaintenance.\xfffe\xfffeAdditional details are available\xfffeon the Global Link website.\xfffehttp://www.pokemon-gl.com/\xfffe（Error：１３２１２）
