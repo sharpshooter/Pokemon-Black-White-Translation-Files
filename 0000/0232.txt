@@ -35,7 +35,7 @@ There was a communication error\xfffein the Wi-Fi Plaza.\xfffeError code: （\xf
 りようきやく に\xfffeどういする ひつようが あります\xfffeほんたいせっていで りようきやく に\xfffeどういして ください\xfffe（５０５９９）
 \xf000봂\x0000Nintendo Wi-Fi Connection
 \xf000봂\x0000Nintendo Wi-Fi Connection
-つうしんエラー に よって\xfffeＷｉ－Ｆｉコネクション から\xfffeせつだん されました\xfffe\xfffeもういちど \xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく しますか？
+A communication error has occured.\xfffeYou have been disconnected from\xfffeNintendo Wi-Fi Connection.\xfffe\xfffeDo you wish to reconnect?
 ほんとうに こうしん しても\xfffeよろしいですか？\xfffe\xfffeちゅうい\xfffeいま とうろく している\xfffeＷｉ－Ｆｉたいかいは\xfffeさんかが かいじょに なります
 ほんたいの むせんつうしんが\xfffeオフに なっています\xfffeほんたいせっていで むせんつうしんを\xfffeオンに してください\xfffe（５０６９９）
 あいてとの せつぞくが\xfffeせつだん されました
