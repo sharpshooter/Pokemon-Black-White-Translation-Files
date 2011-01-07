@@ -42,4 +42,4 @@ There was nothing that\xfffecould be transferred.\xf000븁\x0000
 The incorrect DS card is in\xfffeSlot 1.\xfffeShutting down Transfer Machine...\xf000븁\x0000
 Stop using the\xfffeTransfer Machine?
 Launch\xfffeDS Wireless Communications?
-Cannot read the save file.\xfffeThe data may be damaged or corrupt.\xfffeShutting down the\xfffeTransfer Machine.\xf000븁\x0000
+Cannot read the save file.\xfffeThe data may be damaged or corrupt.\xfffeShutting down Transfer Machine.\xf000븁\x0000
