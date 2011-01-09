@@ -1,28 +1,28 @@
-\xf000Ā\x0001\x0000の ハイルツリー
-ミッションを うける
-デルパワーを うけとる
-じょうたいを みる
-すでに ミッションが\xfffeおこなわれています
-ハイルツリーのごうけいＬｖ： \xf000Ȃ\x0001\x0000
+\xf000Ā\x0001\x0000's High Link
+Recieve Mission
+Recieve Deru Power
+Touch to view
+Mission already completed.
+High Link Ｌｖ： \xf000Ȃ\x0001\x0000
 あんこくのハイルツリー
-レベルバランス
-◆ホワイトＬｖ： \xf000ȃ\x0001\x0000
-◇ブラックＬｖ： \xf000ȃ\x0001\x0000
-つかえるデルパワー  「\xf000ȃ\x0001\x0000こ」
-ハイリンクにいたじかん  「\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001」
-たっせいしたミッション  「\xf000Ȅ\x0001\x0000かい」
-ハイルツリーのじょうたい
-ミッションを かいしする
-ミッションを じっしちゅう
-ミッションを かいし します！\xf000븂\x0001Z
-すでに べつの ミッションが\xfffeかいしされて います
-６つの ミッションから\xfffe１つ えらんでください
-ミッションを えらんでください
-せかいが３つ つながっているときは\xfffeこのミッションを うけられません
-ぼうけんしゃが ハイリンクにいるので\xfffeミッションを うけることが できません
+Level Balance
+◆WhiteＬｖ： \xf000ȃ\x0001\x0000
+◇BlackＬｖ： \xf000ȃ\x0001\x0000
+Useable Deru Power  「\xf000ȃ\x0001\x0000こ」
+Time in High Link  「\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001」
+Missons Completed  「\xf000Ȅ\x0001\x0000かい」
+High Link State
+Start Mission
+Mission In Progress
+Mission Start! \xf000븂\x0001Z
+A mission has already been\xfffestarted.
+Choose a mission from one of the\xfffesix mission types.
+Please select a mission.
+You can't do this mission while\xfffethree worlds are connected.
+There is someone else in the High Link.\xfffeIt isn't possible to recieve a mission.
 ミッションを えらぶことで\xfffeあいてを たすけることが できます\xf000븁\x0000まず はじめに このなかから\xfffe『サポート ミッション』を えらび\xf000븀\x0000ミッションを かいしして ください
 べつの ミッションを\xfffeえらんで います\xf000븁\x0000まずは 『サポート ミッション』を\xfffeえらんで かいしして ください
-つかう デルダマの かず
+Spend Derudama Points
 \xf000ȃ\x0001\x0000こ
 はっせいじかん
 \xf000ȃ\x0001\x0000ふん
@@ -30,14 +30,14 @@
 ー
 Yes
 No
-このデルパワー を\xfffeハイルツリーから うけとりますか？
-ポイントが たりません
-うけとれる デルパワー
+Recieve this Deru Power from the\xfffeHigh Link?
+Not enough points.
+Deru Power to recieve
 『\xf000Ĝ\x0001\x0000』 を\xfffeハイルツリーから うけとった！\xf000븁\x0000うけとった『\xf000Ĝ\x0001\x0000』を\xfffeＣギアに とうろくした！
-パワーをうけとる
-ハイルツリーから うけとる\xfffeデルパワーを えらんでください
-いま うけとっている デルパワー
-デルパワーは まだ うけとっていません
+Recieve Power
+Please choose the Deru Power\xfffeto recieve from the High Link.
+Deru Power was recieved.
+Deru Power not recieved yet.
 １かい／デルダマ\xf000ȃ\x0001\x0000こ
 \xf000봂\x0000◆ ホワイトＬｖ：\xf000Ȃ\x0001\x0000 でうけとれます ◆\xfffe\xfffeいまのＬｖ\xfffe◇ブラックＬｖ：\xf000Ȃ\x0001\x0002   ◆ホワイトＬｖ：\xf000Ȃ\x0001\x0001
 \xf000봂\x0000◇ ブラックＬｖ：\xf000Ȃ\x0001\x0000 でうけとれます ◇\xfffe\xfffeいまのＬｖ\xfffe◇ブラックＬｖ：\xf000Ȃ\x0001\x0002   ◆ホワイトＬｖ：\xf000Ȃ\x0001\x0001
