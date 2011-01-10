@@ -106,8 +106,8 @@
 キュン！？\xfffeキューン！？\xf000븀\x0000なんだか とりこみちゅう みたい
 ギャオ！？\xfffeギャオギャオ！？\xf000븀\x0000なんだか とりこみちゅう みたい
 ……！？\xfffe…… ……！？\xf000븀\x0000なんだか とりこみちゅう みたい
-\xf000Ā\x0001\x0000『……\xfffe…… ……\xf000븀\x0000とりこみちゅうの ようだ
-\xf000Ā\x0001\x0000『……\xfffe…… ……\xf000븀\x0000とりこみちゅうの ようだ
+\xf000Ā\x0001\x0000: ……\xfffe…… ……\xf000븀\x0000(They seem busy right now.)
+\xf000Ā\x0001\x0000: ……\xfffe…… ……\xf000븀\x0000(They seem busy right now.)
 キュン！\xfffeキューン！\xf000븀\x0000あいては やるきいっぱいだ！
 ギャオ！\xfffeギャオギャオ！\xf000븀\x0000あいては やるきいっぱいだ！
 ……！\xfffe…… ……！\xf000븀\x0000あいては やるきいっぱいだ！
@@ -340,18 +340,18 @@
 ー
 ー
 ー
-うーん……\xfffeやっぱり かうのは やめようかな？\xf000븁\x0000ごめんね またこんど\xfffeいいものがあったら おしえてくれよ！
-えーと……\xfffeやっぱり かうのは やめとこうかな？\xf000븁\x0000ごめんなさい またこんど\xfffeいいものがあったら おしえてね！
+Hmm...\xfffeI don't think I'll buy that.\xf000븁\x0000Sorry, another time.  Let me know\xfffeif you find anything worthwhile!
+Well...\xfffeNah. I don't think so.\xf000븁\x0000Maybe next time.  Perhaps\xfffeif you have something interesting...
 ー
 ー
 ー
-……あれ？\xfffeおかねが たりないみたいですね\xf000븀\x0000また こんど ということで！\xf000븁\x0000それではまた たびのどこかで\xfffeおあいしましょう！
-……あれれ？\xfffeおかねが たりないみたいですね\xf000븀\x0000また こんど ということで！\xf000븁\x0000それではまた たびのどこかで\xfffeおあいしましょう！
+...Huh?\xfffeYou don't have enough money...\xf000븀\x0000Oops, gotta go!\xf000븁\x0000I hope to see you again in\xfffethe near future. See ya！
+...Oh?\xfffeYou don't have enough money...\xf000븀\x0000Oops, gotta go!\xf000븁\x0000I hope to see you again in\xfffethe near future. See ya！
 ー
 ー
 ー
-あ！ ごめん……\xfffeいま かおうと おもったんだけど\xf000븀\x0000おかねが たりなかった……\xf000븁\x0000こんど かうから\xfffeまた きてくれよ！
-あ！ ごめんなさい……\xfffeいま かおうと おもったんだけど\xf000븀\x0000おかねが たりなかったよ……\xf000븁\x0000またこんど かうので\xfffeぜったいに きてください！
+Oh! That's too bad...\xfffeI wanted to buy that...\xf000븀\x0000...but I don't have enough.\xf000븁\x0000Let me buy it from you\xfffeanother time!
+Ah! Sorry...\xfffeI really wanted to buy that, but...\xf000븀\x0000it seems I don't have enough.\xf000븁\x0000Let me come back another\xfffetime!
 ー
 ー
 ー

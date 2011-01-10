@@ -1,5 +1,5 @@
 \xf000Ā\x0001\x0000's High Link
-Recieve Mission
+Missions
 Recieve Exit Power
 Touch to view
 Mission already completed.
@@ -8,11 +8,11 @@ High Link Ｌｖ： \xf000Ȃ\x0001\x0000
 Level Balance
 ◆WhiteＬｖ： \xf000ȃ\x0001\x0000
 ◇BlackＬｖ： \xf000ȃ\x0001\x0000
-Useable Exit Power  「\xf000ȃ\x0001\x0000こ」
-Time in High Link  「\xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001」
-Missons Completed  「\xf000Ȅ\x0001\x0000かい」
-High Link State
-Start Mission
+Derudama:    \xf000ȃ\x0001\x0000 
+Time in High Link:   \xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001 
+Missons Completed:   \xf000Ȅ\x0001\x0000 
+High Link Status
+Begin Mission
 Mission In Progress
 Mission Start! \xf000븂\x0001Z
 A mission has already been\xfffestarted.
@@ -31,7 +31,7 @@ Spend Derudama
 Yes
 No
 Recieve this Exit Power from the\xfffeHigh Link?
-Not enough points.
+Not enough Derudama.
 Exit Power to recieve
 『\xf000Ĝ\x0001\x0000』 を\xfffeハイルツリーから うけとった！\xf000븁\x0000うけとった『\xf000Ĝ\x0001\x0000』を\xfffeＣギアに とうろくした！
 Recieve Exit Power
