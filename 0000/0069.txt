@@ -32,12 +32,12 @@ Yes
 No
 Recieve this Exit Power from the\xfffeHigh Link?
 Not enough Derudama.
-Exit Power to recieve
-『\xf000Ĝ\x0001\x0000』 を\xfffeハイルツリーから うけとった！\xf000븁\x0000うけとった『\xf000Ĝ\x0001\x0000』を\xfffeＣギアに とうろくした！
+Exit Powers
+Set Exit Power: \xf000Ĝ\x0001\x0000 and\xffferegistered it to your C-Gear!\xf000븁\x0000To use it, select it from the\xfffeExit Power menu on your C-Gear.
 Recieve Exit Power
 Please choose the Exit Power\xfffeto recieve from the High Link.
-Exit Power was recieved.
-Exit Power not recieved yet.
-１かい／デルダマ\xf000ȃ\x0001\x0000こ
+Set Exit Powers
+No Exit Powers in use currently.
+Each use costs \xf000ȃ\x0001\x0000 Derudama
 \xf000봂\x0000◆ ホワイトＬｖ：\xf000Ȃ\x0001\x0000 でうけとれます ◆\xfffe\xfffeいまのＬｖ\xfffe◇ブラックＬｖ：\xf000Ȃ\x0001\x0002   ◆ホワイトＬｖ：\xf000Ȃ\x0001\x0001
 \xf000봂\x0000◇ ブラックＬｖ：\xf000Ȃ\x0001\x0000 でうけとれます ◇\xfffe\xfffeいまのＬｖ\xfffe◇ブラックＬｖ：\xf000Ȃ\x0001\x0002   ◆ホワイトＬｖ：\xf000Ȃ\x0001\x0001
