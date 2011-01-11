@@ -1,6 +1,6 @@
 Time Remaining: \xf000ȁ\x0001\x0000 minutes\xfffeあと \xf000ȁ\x0001\x0001かい
 Time Remaining: \xf000ȁ\x0001\x0000 minutes\xfffeあと \xf000ȁ\x0001\x0001にん
-Have \xf000Ā\x0001\x0000 talk to you and recieve the\xfffeExit Power: \xf000Đ\x0001\x0001!
+Have \xf000Ā\x0001\x0000 talk to you and grant the\xfffeExit Power: \xf000Đ\x0001\x0001!
 Talk to \xf000Ā\x0001\x0000 and give the\xfffeExit Power: \xf000Đ\x0001\x0001!
 Challenge \xf000Ā\x0001\x0000 to a\xfffeLv. \xf000Ȃ\x0001\x0001 Flat Battle! (2 Pokémon each)
 たたかってる \xf000Ā\x0001\x0000に はなしかけ\xfffe「せんとうＨＰかいふくパワー」をあたえよ

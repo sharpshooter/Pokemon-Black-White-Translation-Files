@@ -56,8 +56,8 @@ Gyao! Gyao!\xf000븁\x0000...Oh?\xfffe\xf000븀\x0000Your Pokémon suddenly bega
 ー
 ー
 ー
-\xf000Ā\x0001\x0000: Heh!\xfffeGot you!\xf000븁\x0000それにしても こんなところに\xfffeポケモンがいるなんて めずらしいなぁ\xf000븀\x0000……あれ？\xf000븁\x0000\xf000Ā\x0001\x0001は ハイルツリーから\xfffeもらった \xf000Ĝ\x0001\x0002を\xf000븀\x0000\xf000Ā\x0001\x0000に つかった！\xf000븁\x0000
-\xf000Ā\x0001\x0000: All right!\xfffeGot you!\xf000븁\x0000それにしても こんなところに\xfffeポケモンがいるなんて めずらしいなぁ\xf000븀\x0000……あれ？\xf000븁\x0000\xf000Ā\x0001\x0001は ハイルツリーから\xfffeもらった \xf000Ĝ\x0001\x0002を\xf000븀\x0000\xf000Ā\x0001\x0000に つかった！\xf000븁\x0000
+\xf000Ā\x0001\x0000: Oh!\xfffeI get it!\xf000븁\x0000There's something strange about this Pokémon...\xf000븀\x0000...Huh?\xf000븁\x0000\xf000Ā\x0001\x0001 gave \xf000Ĝ\x0001\x0002\xfffethe Exit Power: \xf000Ā\x0001\x0000!\xf000븁\x0000
+\xf000Ā\x0001\x0000: Oh I see!\xfffeI got it now!\xf000븁\x0000There's something strange about this Pokémon...\xf000븀\x0000...Huh?\xf000븁\x0000\xf000Ā\x0001\x0001 gave \xf000Ĝ\x0001\x0002\xfffethe Exit Power: \xf000Ā\x0001\x0000!\xf000븁\x0000
 Kuhn! Kuhn!\xf000븁\x0000It seems to be trying to get\xfffeyour attention...
 Fu! Fu!\xf000븁\x0000It seems to be trying to get\xfffeyour attention...
 Gyao! Gyao!\xf000븁\x0000It seems to be trying to get\xfffeyour attention...
@@ -238,8 +238,8 @@ Sorry!\xfffeI'm not ready right now...\xf000븁\x0000We'll battle another time, 
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『いけっ そこだ！\xfffeがんばれ！ ……\xf000븁\x0000お！ ありがたい！\xfffeたすけてくれるのか！？\xf000븁\x0000「せんとう ＨＰかいふくパワー」を\xfffe\xf000Ā\x0001\x0000の ポケモンに つかった！\xf000븁\x0000
-\xf000Ā\x0001\x0000『いけっ そこよ！\xfffeがんばって！ ……\xf000븁\x0000わ！ ありがとう！\xfffeたすけてくれるの！？\xf000븁\x0000「せんとう ＨＰかいふくパワー」を\xfffe\xf000Ā\x0001\x0000の ポケモンに つかった！\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...this could be bad!\xfffeHang in there!\xf000븁\x0000Oh! Thanks!\xfffeMaybe this will help!\xf000븁\x0000\xf000Ā\x0001\x0000 gained the\xfffe Exit Power: Battle HP Restore!\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...this isn't good!\xfffeHang on!\xf000븁\x0000Wow! Thank you!\xfffeThis is just what we needed!\xf000븁\x0000\xf000븁\x0000\xf000Ā\x0001\x0000 gained the\xfffe Exit Power: Battle HP Restore!\xf000븁\x0000
 ー
 ー
 ー
@@ -325,13 +325,13 @@ I'll sell it to you for \xf000Ȅ\x0001\x0002!\xf000븁\x0000This is something I 
 ー
 ー
 ー
-Sure!\xfffeI'll buy a \xf000ĉ\x0001\x0001!  Thank you!\xf000븁\x0000\xf000Ā\x0001\x0003sold a \xf000ĉ\x0001\x0001!\xf000븁\x0000I hope to see you again sometime\xfffein the future!  See ya!
-Sure!\xfffeI'll buy a \xf000ĉ\x0001\x0001!  Thank you!\xf000븁\x0000\xf000Ā\x0001\x0003sold a \xf000ĉ\x0001\x0001!\xf000븁\x0000I hope to see you again sometime\xfffein the future!  See ya!
+Sure!\xfffeI'll buy a \xf000ĉ\x0001\x0001!  Thank you!\xf000븁\x0000\xf000Ā\x0001\x0003 bought a \xf000ĉ\x0001\x0001!\xf000븁\x0000I hope to see you again sometime\xfffein the future!  See ya!
+Sure!\xfffeI'll buy a \xf000ĉ\x0001\x0001!  Thank you!\xf000븁\x0000\xf000Ā\x0001\x0003 bought a \xf000ĉ\x0001\x0001!\xf000븁\x0000I hope to see you again sometime\xfffein the future!  See ya!
 ー
 ー
 ー
-OK!\xfffeI'll take a \xf000ĉ\x0001\x0001, please!\xf000븁\x0000\xf000Ā\x0001\x0000 sold a \xf000ĉ\x0001\x0001!\xf000븁\x0000\xf000Ā\x0001\x0000: Thanks for the purchase!\xf000븀\x0000See ya!
-All right!\xfffeOne \xf000ĉ\x0001\x0001, please！\xf000븁\x0000\xf000Ā\x0001\x0000 sold a \xf000ĉ\x0001\x0001！\xf000븁\x0000\xf000Ā\x0001\x0000: Yay!\xfffeThis makes me so happy!\xf000븀\x0000Thank you!
+OK!\xfffeI'll take a \xf000ĉ\x0001\x0001, please!\xf000븁\x0000\xf000Ā\x0001\x0000 bought a \xf000ĉ\x0001\x0001!\xf000븁\x0000\xf000Ā\x0001\x0000: Thanks for the purchase!\xfffeSee ya!
+All right!\xfffeOne \xf000ĉ\x0001\x0001, please！\xf000븁\x0000\xf000Ā\x0001\x0000 bought a \xf000ĉ\x0001\x0001！\xf000븁\x0000\xf000Ā\x0001\x0000: Yay!\xfffeThis makes me so happy!\xf000븀\x0000Thank you!
 ー
 ー
 ー
@@ -346,7 +346,7 @@ Well...\xfffeNah. I don't think so.\xf000븁\x0000Maybe next time.  Perhaps\xfff
 ー
 ー
 ...Huh?\xfffeYou don't have enough money...\xf000븀\x0000Oops, gotta go!\xf000븁\x0000I hope to see you again in\xfffethe near future. See ya！
-...Oh?\xfffeYou don't have enough money...\xf000븀\x0000Oops, gotta go!\xf000븁\x0000I hope to see you again in\xfffethe near future. See ya！
+...Oh?\xfffeYou don't have enough money...\xf000븀\x0000Drat, gotta run!\xf000븁\x0000I hope to see you again in\xfffethe near future. See ya！
 ー
 ー
 ー
