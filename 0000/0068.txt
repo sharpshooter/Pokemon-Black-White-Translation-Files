@@ -1,10 +1,10 @@
-はなしかけています
-……だれかが はなしかけてきました
-…… …… ……どうやら\xfffeとりこみちゅうの ようだ
-しばらくおまちください……
-あいてとの かいわが きれました
-あいてに さきを こされました
-つうしんが きれました
+Communicating...
+...they are talking with someone\xfffeelse right now...
+...they seem busy at the moment...
+Please wait a moment...
+Communication with your partner was cut.
+Your partner ran out of time.
+Communication was cut.
 ー
 ー
 ー
@@ -193,23 +193,23 @@
 ー
 ー
 ー
-よし！\xfffeじゃあ いくぞ！
-よし！\xfffeじゃあ いくよ！
+All right!\xfffeSee you later!
+All right!\xfffeSee you later!
 ー
 ー
 ー
-よし！\xfffeじゃあ いくぞ！
-よし！\xfffeじゃあ いくよ！
+All right!\xfffeSee you later!
+All right!\xfffeSee you later!
 ー
 ー
 ー
-ふー！\xfffeいいたたかい だったぜ！\xf000븁\x0000いきなり だったけど\xfffeつきあってくれて ありがとうな！\xf000븀\x0000じゃあ またな！
-ふー！\xfffeいいたたかい だった！\xf000븁\x0000いきなり だったけど\xfffeつきあってくれて ありがとうね！\xf000븀\x0000じゃあ また！
+Whew!\xfffeYou were tough!\xf000븁\x0000Thanks for the battle!\xfffeAlthough that was a bit sudden...\xf000븀\x0000See you later!
+Whew!\xfffeYou were tough!\xf000븁\x0000That battle was a bit sudden,\xfffebut I had fun!\xf000븀\x0000See you later!
 ー
 ー
 ー
-ふー！\xfffeいいたたかい だったぜ！\xf000븁\x0000きみと たたかえて\xfffeおもしろかったぜ！\xf000븀\x0000じゃあ またな！
-ふー！\xfffeいいたたかい だった！\xf000븁\x0000きみと たたかえて\xfffeおもしろかったよ！\xf000븀\x0000じゃあ また！
+Whew!\xfffeThat battle was tough!\xf000븁\x0000It was fun and exciting!\xfffeLets do it again sometime!\xf000븀\x0000See ya!
+Whew!\xfffeThat was a good battle!\xf000븁\x0000I had a lot of fun!\xfffeWe should battle again sometime!\xf000븀\x0000Later!
 ー
 ー
 ー
@@ -305,38 +305,38 @@
 ー
 ー
 ー
-もくてきちに たどりついた！\xf000븁\x0000…… …… ……\xfffe……ガサガサッ！\xf000븁\x0000\xf000Ā\x0001\x0000は\xfffeもってきた \xf000ĉ\x0001\x0001を\xf000븀\x0000みつけたひとが びっくりするように\xf000븀\x0000メモと いっしょに かくした！
-もくてきちに たどりついた！\xf000븁\x0000…… …… ……\xfffe……ガサガサッ！\xf000븁\x0000\xf000Ā\x0001\x0000は\xfffeもってきた \xf000ĉ\x0001\x0001を\xf000븀\x0000みつけたひとが びっくりするように\xf000븀\x0000メモと いっしょに かくした！
-もくてきちに たどりついた！\xf000븁\x0000…… …… ……\xfffe……ガサガサッ！\xf000븁\x0000\xf000Ā\x0001\x0000は\xfffeもってきた \xf000ĉ\x0001\x0001を\xf000븀\x0000みつけたひとが びっくりするように\xf000븀\x0000メモと いっしょに かくした！
-もくてきちに たどりついた！\xf000븁\x0000…… …… ……\xfffe……ガサガサッ！\xf000븁\x0000\xf000Ā\x0001\x0000は\xfffeもってきた \xf000ĉ\x0001\x0001を\xf000븀\x0000みつけたひとが びっくりするように\xf000븀\x0000メモと いっしょに かくした！
-もくてきちに たどりついた！\xf000븁\x0000…… …… ……\xfffe……ガサガサッ！\xf000븁\x0000\xf000Ā\x0001\x0000は\xfffeもってきた \xf000ĉ\x0001\x0001を\xf000븀\x0000みつけたひとが びっくりするように\xf000븀\x0000メモと いっしょに かくした！
+I arrived at my destination!\xf000븁\x0000…… …… ……\xfffe……ガサガサッ！\xf000븁\x0000\xf000Ā\x0001\x0000は\xfffeもってきた \xf000ĉ\x0001\x0001を\xf000븀\x0000みつけたひとが びっくりするように\xf000븀\x0000メモと いっしょに かくした！
+I arrived at my destination!\xf000븁\x0000…… …… ……\xfffe……ガサガサッ！\xf000븁\x0000\xf000Ā\x0001\x0000は\xfffeもってきた \xf000ĉ\x0001\x0001を\xf000븀\x0000みつけたひとが びっくりするように\xf000븀\x0000メモと いっしょに かくした！
+I arrived at my destination!\xf000븁\x0000…… …… ……\xfffe……ガサガサッ！\xf000븁\x0000\xf000Ā\x0001\x0000は\xfffeもってきた \xf000ĉ\x0001\x0001を\xf000븀\x0000みつけたひとが びっくりするように\xf000븀\x0000メモと いっしょに かくした！
+I arrived at my destination!\xf000븁\x0000…… …… ……\xfffe……ガサガサッ！\xf000븁\x0000\xf000Ā\x0001\x0000は\xfffeもってきた \xf000ĉ\x0001\x0001を\xf000븀\x0000みつけたひとが びっくりするように\xf000븀\x0000メモと いっしょに かくした！
+I arrived at my destination!\xf000븁\x0000…… …… ……\xfffe……ガサガサッ！\xf000븁\x0000\xf000Ā\x0001\x0000は\xfffeもってきた \xf000ĉ\x0001\x0001を\xf000븀\x0000みつけたひとが びっくりするように\xf000븀\x0000メモと いっしょに かくした！
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで びっくりした？\xf000븀\x0000ハイリンクから あいにきたよ\xf000븁\x0000さて！ とつぜんですが\xfffeたびのとちゅうの ブレイクタイム！\xf000븁\x0000……ただいま ですね\xfffeフレンドリィショップ キャンペーンで\xf000븀\x0000\xf000ĉ\x0001\x0001を！\xf000븀\x0000なんと！\xf000븁\x0000
-とくべつかかく \xf000Ȅ\x0001\x0002円で！\xfffeはんばい しております！\xf000븁\x0000こんな チャンス\xfffeめったに ありません！\xf000븁\x0000\xf000ĉ\x0001\x0001を\xfffe\xf000Ȅ\x0001\x0002円で いかがでしょうか？
-\xf000Ā\x0001\x0000『こんにちは！\xfffeとつぜんで びっくりした？\xf000븀\x0000ハイリンクから あいにきたよ\xf000븁\x0000さて！ とつぜんですが\xfffeたびのとちゅうの ブレイクタイム！\xf000븁\x0000いま フレンドリィショップ\xfffeキャンペーンを やってて ですね\xf000븀\x0000\xf000ĉ\x0001\x0001を！\xf000븀\x0000なんとー！\xf000븁\x0000
-とくべつかかく \xf000Ȅ\x0001\x0002円で！\xfffeはんばい しております！\xf000븁\x0000こんな チャンス\xfffeめったに ありませんよ！\xf000븁\x0000\xf000ĉ\x0001\x0001を\xfffe\xf000Ȅ\x0001\x0002円で いかがでしょうか？
+\xf000Ā\x0001\x0000: Hello!\xfffeDid I startle you?\xf000븀\x0000I came from the High-Link.\xf000븁\x0000I'm taking a break from my\xfffeadventure.\xf000븁\x0000I'm trying to sell this\xfffe\xf000ĉ\x0001\x0001.\xf000븀\x0000Oh, I know!\xf000븁\x0000
+I'll sell it to you for \xf000Ȅ\x0001\x0002!\xf000븁\x0000This is something I rarely do!\xfffeWhat do you think?\xf000븁\x0000Buy a \xf000ĉ\x0001\x0001 for \xf000Ȅ\x0001\x0002?
+\xf000Ā\x0001\x0000: Hello!\xfffeDid I startle you?\xf000븀\x0000I came from the High-Link.\xf000븁\x0000I'm taking a break from my\xfffeadventure.\xf000븁\x0000I'm trying to sell this\xfffe\xf000ĉ\x0001\x0001.\xf000븀\x0000Oh, I know!\xf000븁\x0000
+I'll sell it to you for \xf000Ȅ\x0001\x0002!\xf000븁\x0000This is something I rarely do!\xfffeWhat do you think?\xf000븁\x0000Buy a \xf000ĉ\x0001\x0001 for \xf000Ȅ\x0001\x0002?
 ー
 ー
 ー
-\xf000Ā\x0001\x0000『こんにちは！\xf000븁\x0000え！？ なに？\xfffe\xf000ĉ\x0001\x0001を \xf000Ȅ\x0001\x0002円で\xf000븀\x0000うってくれるの？\xf000븁\x0000どうしようかな？\xfffeうーん……
-\xf000Ā\x0001\x0000『こんにちは！\xf000븁\x0000え！？ なに？\xfffe\xf000ĉ\x0001\x0001を \xf000Ȅ\x0001\x0002円で\xf000븀\x0000うってくれるの？\xf000븁\x0000どうしよう？\xfffeうーん……
+\xf000Ā\x0001\x0000: Hello！\xf000븁\x0000...Eh? What?\xfffeYou're selling a \xf000ĉ\x0001\x0001 for \xf000Ȅ\x0001\x0002?\xf000븁\x0000Hmm...\xfffeWell, I don't know...
+\xf000Ā\x0001\x0000: Hiya！\xf000븁\x0000..Eh?  What?\xfffeYou're selling a \xf000ĉ\x0001\x0001 for \xf000Ȅ\x0001\x0002?\xf000븁\x0000Well, I'm not sure...
 ー
 ー
 ー
-ありがとうございます！ では\xfffe\xf000ĉ\x0001\x0001を おわたしします！\xf000븁\x0000\xf000Ā\x0001\x0003は \xf000ĉ\x0001\x0001を\xfffeてにいれた！\xf000븁\x0000それではまた たびのどこかで\xfffeおあいしましょう！
-ありがとうございます！ では\xfffe\xf000ĉ\x0001\x0001を おわたしします！\xf000븁\x0000\xf000Ā\x0001\x0003は \xf000ĉ\x0001\x0001を\xfffeてにいれた！\xf000븁\x0000それではまた たびのどこかで\xfffeおあいしましょう！
+Sure!\xfffeI'll buy a \xf000ĉ\x0001\x0001!  Thank you!\xf000븁\x0000\xf000Ā\x0001\x0003sold a \xf000ĉ\x0001\x0001!\xf000븁\x0000I hope to see you again sometime\xfffein the future!  See ya!
+Sure!\xfffeI'll buy a \xf000ĉ\x0001\x0001!  Thank you!\xf000븁\x0000\xf000Ā\x0001\x0003sold a \xf000ĉ\x0001\x0001!\xf000븁\x0000I hope to see you again sometime\xfffein the future!  See ya!
 ー
 ー
 ー
-きめた！\xfffe\xf000ĉ\x0001\x0001を １つください！\xf000븁\x0000\xf000Ā\x0001\x0000は \xf000ĉ\x0001\x0001を\xfffeてにいれた！\xf000븁\x0000\xf000Ā\x0001\x0000『おおー！\xfffeなんだか とくしちゃったぜ！\xf000븀\x0000ありがとうな！
-よーし！\xfffe\xf000ĉ\x0001\x0001を １つください！\xf000븁\x0000\xf000Ā\x0001\x0000は \xf000ĉ\x0001\x0001を\xfffeてにいれた！\xf000븁\x0000\xf000Ā\x0001\x0000『やったー！\xfffeなんだか とくしちゃった きぶん！\xf000븀\x0000ありがとうね！
+OK!\xfffeI'll take a \xf000ĉ\x0001\x0001, please!\xf000븁\x0000\xf000Ā\x0001\x0000 sold a \xf000ĉ\x0001\x0001!\xf000븁\x0000\xf000Ā\x0001\x0000: Thanks for the purchase!\xf000븀\x0000See ya!
+All right!\xfffeOne \xf000ĉ\x0001\x0001, please！\xf000븁\x0000\xf000Ā\x0001\x0000 sold a \xf000ĉ\x0001\x0001！\xf000븁\x0000\xf000Ā\x0001\x0000: Yay!\xfffeThis makes me so happy!\xf000븀\x0000Thank you!
 ー
 ー
 ー
-そうですか！\xfffeわかりました！\xf000븁\x0000それではまた たびのどこかで\xfffeおあいしましょう！
-そうですか！\xfffeわかりました！\xf000븁\x0000それではまた たびのどこかで\xfffeおあいしましょう！
+Really?!\xfffeAll right!\xf000븁\x0000I wish you luck in your\xfffeadventures!  See ya!
+Really?!\xfffeAll right!\xf000븁\x0000I wish you luck in your\xfffeadventures!  See ya!
 ー
 ー
 ー
@@ -355,8 +355,8 @@ Ah! Sorry...\xfffeI really wanted to buy that, but...\xf000븀\x0000it seems I d
 ー
 ー
 ー
-……あれ？\xfffeバッグが いっぱい みたいですね\xf000븀\x0000また こんど ということで！\xf000븁\x0000それではまた たびのどこかで\xfffeおあいしましょう！
-……あれれ？\xfffeおかねが たりないみたいですね\xf000븀\x0000また こんど ということで！\xf000븁\x0000それではまた たびのどこかで\xfffeおあいしましょう！
+...Huh? It looks like your bag is\xfffefull...\xf000븀\x0000Drat, gotta run!\xf000븁\x0000I hope to see you later sometime\xfffesoon!  Later!
+...Huh?\xfffeYou don't have enough money...\xf000븀\x0000Oops, gotta go!\xf000븁\x0000I hope to see you again in\xfffeyour adventures. See ya！
 ー
 ー
 ー
