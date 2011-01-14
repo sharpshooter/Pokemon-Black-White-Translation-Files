@@ -57,7 +57,7 @@ Touch to warp to\xfffethe adventurer's position.
 Touch to warp to\xfffethe adventurer's position.
 Touch to warp to\xfffethe adventurer's position.
 Touch to warp to\xfffethe adventurer's position.
-Touch to warp to\xfffewhere you hid the item.
+Touch to warp to\xfffewhere you are hiding the item.
 Touch to warp to\xfffethe adventurer's position.
 On a mission.
 Coming to play in \xf000Ā\x0001\x0000's world.

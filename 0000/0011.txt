@@ -10,9 +10,9 @@ You don't have enough Exit Balls\xfffeto use Exit Power.\xfffeNeeded: \xf000Ȃ\x
 Using \xf000đ\x0001\x0001.\xfffe\xf000ȁ\x0001\x0005 seconds remaining.
 Using \xf000đ\x0001\x0001.\xfffe\xf000Ȃ\x0001\x0004 minutes,\xfffe\xf000ȁ\x0001\x0005 seconds remaining.
 You said\xfffe"\xf000Ĝ\x0001\x0000"!
-Confirm
-Yes
-No
+Status
+Use
+Back
 Confirm
 Close
 Okay?
