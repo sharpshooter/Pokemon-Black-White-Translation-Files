@@ -20,7 +20,7 @@ Communication was cut.
 \xf000Ā\x0001\x0000:  Hi!\xfffeがんばってるかい？
 \xf000Ā\x0001\x0000: えへへ！\xfffeがんばってる？
 ー
-\xf000봂\x0000\xf000Ā\x0001\x0000が ミッションたっせい！\xf000븂\x0001Z
+\xf000봂\x0000\xf000Ā\x0001\x0000 accomplished the mission!\xf000븂\x0001Z
 \xf000봂\x0000Mission Failed...
 Recieved \xf000ȁ\x0001\x0000 Derudama!\xf000븂\x0001Z
 \xf000봂\x0000Mission Accomplished!
@@ -140,21 +140,21 @@ Gyao！\xfffeGyaogyao！\xf000븀\x0000They seem very motivated!
 ありがとう！\xfffeたすかるよ！\xf000븁\x0000\xf000Ā\x0001\x0001は ハイルツリーから\xfffeもらった \xf000Ĝ\x0001\x0002を\xf000븀\x0000\xf000Ā\x0001\x0000に つかった！\xf000븁\x0000
 \xf000Ā\x0001\x0000: こんにちは！\xfffeあなたも たびのとちゅう？\xf000븁\x0000ポケモンや みんなの おかげで\xfffeわたしの たびは じゅんちょうよ！\xf000븁\x0000……え？\xfffeわたしに なにか くれるの？\xf000븁\x0000
 ありがとう！\xfffeたすかるよ！\xf000븁\x0000\xf000Ā\x0001\x0001は ハイルツリーから\xfffeもらった \xf000Ĝ\x0001\x0002を\xf000븀\x0000\xf000Ā\x0001\x0000に つかった！\xf000븁\x0000
-キュン！？\xfffeキューン！？\xf000븁\x0000いきなり はなしかけられて\xfffeビックリしてるみたい
-ギャ！？\xfffeギャオオ！？\xf000븁\x0000いきなり はなしかけられて\xfffeビックリしてるみたい
-……！？\xfffe…… ……！？\xf000븁\x0000いきなり はなしかけられて\xfffeビックリしてるみたい
-\xf000Ā\x0001\x0000: あ！\xfffeこんにちは！\xf000븁\x0000ハイリンクから あなたに\xfffeあいにきたよ！\xf000븁\x0000あなたのために よういしてきた\xfffeものが あるので\xf000븀\x0000ちょっと まっててください\xf000븁\x0000あとで わたしから\xfffeはなしかけますので！
-\xf000Ā\x0001\x0000: あ！\xfffeこんにちは！\xf000븁\x0000ハイリンクから あなたに\xfffeあいにきたよ！\xf000븁\x0000あなたのために よういしてきた\xfffeものが あるので\xf000븀\x0000ちょっと まっててください\xf000븁\x0000あとで わたしから\xfffeはなしかけますので！
+Kyun!?\xfffeKyun!?\xf000븁\x0000It seems like you startled\xfffethem...
+Gya!?\xfffeGyaoo!?\xf000븁\x0000It seems like you startled\xfffethem...
+……！？\xfffe…… ……！？\xf000븁\x0000It seems like you startled\xfffethem...
+\xf000Ā\x0001\x0000: Ah!\xfffeHello!\xf000븁\x0000I came from the High-Link!\xf000븁\x0000あなたのために よういしてきた\xfffeものが あるので\xf000븀\x0000ちょっと まっててください\xf000븁\x0000あとで わたしから\xfffeはなしかけますので！
+\xf000Ā\x0001\x0000: Ah!\xfffeHello!\xf000븁\x0000I came from the High-Link!\xf000븁\x0000あなたのために よういしてきた\xfffeものが あるので\xf000븀\x0000ちょっと まっててください\xf000븁\x0000あとで わたしから\xfffeはなしかけますので！
 ー
 ー
 ー
-\xf000Ā\x0001\x0000: やあ！\xfffeこんにちは！\xf000븀\x0000きみも たびの とちゅうかな？\xf000븁\x0000はなしたいことが あったら\xfffeきがるに こえを かけてくれよ！
-\xf000Ā\x0001\x0000: やあ！\xfffeこんにちは！\xf000븀\x0000あなたも たびの とちゅう？\xf000븁\x0000はなしたいことが あったら\xfffeきがるに こえを かけてね！
-キュイーン！
-ギャオーー！ ギャオーーー！
+\xf000Ā\x0001\x0000: Hello!\xf000븀\x0000Are you on an adventure too?\xf000븁\x0000If you ever need someone to\xfffetalk to, feel free to talk anytime!
+\xf000Ā\x0001\x0000: Hello!\xf000븀\x0000Are you adventuring too?\xf000븁\x0000If you ever need someone to talk with,\xfffedon't hesitate to give me a shout!
+Kyuin!
+Gyao! Gyao!
 …… ……！！
-\xf000Ā\x0001\x0000『このパワーが すこしでも\xfffeたびのやくにたてば うれしいよ！\xf000븀\x0000じゃあ また！
-\xf000Ā\x0001\x0000『このパワーが すこしでも\xfffeたびのやくにたてば うれしいな！\xf000븀\x0000じゃあ また！
+\xf000Ā\x0001\x0000: This power should be\xfffeuseful on my adventure!\xf000븀\x0000Thank you!
+\xf000Ā\x0001\x0000: This power should be\xfffeuseful on my adventure!\xf000븀\x0000Thank you!
 ー
 ー
 ー
@@ -178,8 +178,8 @@ Gyao！\xfffeGyaogyao！\xf000븀\x0000They seem very motivated!
 ー
 ー
 ー
-\xf000Ā\x0001\x0000: Hiiiiiiiii~！\xf000븁\x0000...Huh? Want to fight a\xfffeLv. \xf000Ȃ\x0001\x0001 Flat Battle with 2 Pokémon? \xf000븀\x0000Just a moment!
-\xf000Ā\x0001\x0000: やあ！\xfffeこんにちは！\xf000븁\x0000ん？\xfffeてもち ２ひき レベル \xf000Ȃ\x0001\x0001フラットで\xf000븀\x0000たいせん したいの？ ちょっとまっててね！
+\xf000Ā\x0001\x0000: Hiya！\xf000븁\x0000...Huh? You want to fight a\xfffeLv. \xf000Ȃ\x0001\x0001 Flat Battle with 2 Pokémon? \xf000븀\x0000Just a moment!
+\xf000Ā\x0001\x0000: Hello！\xf000븁\x0000...Huh? You want Want to fight a\xfffeLv. \xf000Ȃ\x0001\x0001 Flat Battle with 2 Pokémon? \xf000븀\x0000One moment!
 ー
 ー
 ー
@@ -188,8 +188,8 @@ Gyao！\xfffeGyaogyao！\xf000븀\x0000They seem very motivated!
 ー
 ー
 ー
-\xf000Ā\x0001\x0000: Hiiiiiiiii~！\xf000븁\x0000...Huh? Want to fight a\xfffeLv. \xf000Ȃ\x0001\x0001 Flat Battle with 2 Pokémon? \xf000븀\x0000Just a moment!
-\xf000Ā\x0001\x0000: やあ！\xfffeこんにちは！\xf000븁\x0000ん？\xfffeてもち ２ひき レベル \xf000Ȃ\x0001\x0001フラットで\xf000븀\x0000たいせん したいの？ ちょっとまっててね！
+\xf000Ā\x0001\x0000: Hiya！\xf000븁\x0000...Huh? You want to fight a\xfffeLv. \xf000Ȃ\x0001\x0001 Flat Battle with 2 Pokémon? \xf000븀\x0000Just a moment!
+\xf000Ā\x0001\x0000: Hello！\xf000븁\x0000...Huh? You want Want to fight a\xfffeLv. \xf000Ȃ\x0001\x0001 Flat Battle with 2 Pokémon? \xf000븀\x0000One moment!
 ー
 ー
 ー
@@ -248,13 +248,13 @@ Sorry!\xfffeI'm not ready right now...\xf000븁\x0000We'll battle another time, 
 ー
 ー
 ー
-…… …… ……\xfffe…… …… ……！！\xf000븁\x0000\xf000Ā\x0001\x0000の ポケモンは\xfffeたいりょくが かいふくした！\xf000븁\x0000\xf000Ā\x0001\x0000『おお！\xfffeありがとうな たすかったぜ！
-…… …… ……\xfffe…… …… ……！！\xf000븁\x0000\xf000Ā\x0001\x0000の ポケモンは\xfffeたいりょくが かいふくした！\xf000븁\x0000\xf000Ā\x0001\x0000『やった！\xfffeありがとうね たすかったよ！
+…… …… ……\xfffe…… …… ……！！\xf000븁\x0000\xf000Ā\x0001\x0000's Pokémon has been restored!\xf000븁\x0000\xf000Ā\x0001\x0000: Oh!\xfffeThank you, you saved me!
+…… …… ……\xfffe…… …… ……！！\xf000븁\x0000\xf000Ā\x0001\x0000's Pokémon has been restored!\xf000븁\x0000\xf000Ā\x0001\x0000: Thank you so much!\xfffeYou saved me!
 ー
 ー
 ー
-\xf000Ā\x0001\x0000: こんにちは！\xfffeとつぜんで びっくりした？\xf000븀\x0000ハイリンクから あいにきたよ\xf000븁\x0000もし あぶなくなったら\xfffeすぐ たすけにいきます！\xf000븁\x0000……おっと！\xfffeだれかが わたしを よんでいる！\xf000븀\x0000それじゃあ また！
-\xf000Ā\x0001\x0000: こんにちは！\xfffeとつぜんで びっくりした？\xf000븀\x0000ハイリンクから あいにきたよ\xf000븁\x0000もし あぶなくなったら\xfffeすぐに たすけにいきますね！\xf000븁\x0000……やや！\xfffeだれかが わたしを よんでるわ！\xf000븀\x0000それじゃあ また！
+\xf000Ā\x0001\x0000: Hello!\xfffeDid I startle you?\xf000븀\x0000I came from the High-Link.\xf000븁\x0000If things become dangerous, I'll\xfffehelp you out!\xf000븁\x0000...Oops!\xfffeSomeone is calling for me!\xf000븀\x0000See ya!
+\xf000Ā\x0001\x0000: Hello!\xfffeDid I startle you?\xf000븀\x0000I came from the High-Link.\xf000븁\x0000If things become dangerous, I'll\xffferush to your aid!\xf000븀\x0000...Huh?\xfffeSomeone is calling for me!\xf000븀\x0000Gotta go!
 ー
 ー
 ー
@@ -263,8 +263,8 @@ Sorry!\xfffeI'm not ready right now...\xf000븁\x0000We'll battle another time, 
 ー
 ー
 ー
-\xf000Ā\x0001\x0000: こんにちは！\xfffeとつぜんで びっくりした？\xf000븀\x0000ハイリンクから あいにきたよ\xf000븁\x0000もし あぶなくなったら\xfffeすぐに たすけにいきます！\xf000븁\x0000ぜひ あんしんして ポケモンと\xfffeたたかって ください！
-\xf000Ā\x0001\x0000: こんにちは！\xfffeとつぜんで びっくりした？\xf000븀\x0000ハイリンクから あいにきたよ\xf000븁\x0000もし あぶなくなったら\xfffeすぐに たすけにいきますね！\xf000븁\x0000ぜひ あんしんして ポケモンと\xfffeたたかって くださいませ！
+\xf000Ā\x0001\x0000: Hello!\xfffeDid I startle you?\xf000븀\x0000I came from the High-Link.\xf000븁\x0000If things become dangerous, I'll\xfffehelp you out!\xf000븁\x0000So feel free to press on\xfffewithout worrying!
+\xf000Ā\x0001\x0000: Hello!\xfffeDid I startle you?\xf000븀\x0000I came from the High-Link.\xf000븁\x0000If things become dangerous, I'll\xffferush to your aid!\xf000븁\x0000So feel free to press on\xfffewithout worrying!
 ー
 ー
 ー
@@ -284,7 +284,7 @@ Kyun!\xfffeKuhn!\xf000븀\x0000It seems like its looking for\xfffesomething...
 Gyao!\xfffeGyaogyao!\xf000븀\x0000It seems like its looking for\xfffesomething...
 ……！\xfffe…… ……！\xf000븀\x0000It seems like its looking for\xfffesomething...
 \xf000Ā\x0001\x0000: Wow!\xfffeThey caught me!\xf000븀\x0000Gotta escape!
-\xf000Ā\x0001\x0000: Wow!\xfffeThey caught me!\xf000븀\x0000Gotta escape!！
+\xf000Ā\x0001\x0000: Wow!\xfffeThey caught me!\xf000븀\x0000Gotta escape!
 Kyun!\xfffeKuhn!\xf000븀\x0000Caught a Pokémon!\xf000븁\x0000...they surprised you.\xfffeYou ran away...
 Gyao!\xfffeGyaogyao!\xf000븀\x0000Caught a Pokémon!\xf000븁\x0000...they surprised you.\xfffeYou ran away...
 ……！\xfffe…… ……！\xf000븀\x0000Caught a Pokémon!\xf000븁\x0000...they surprised you.\xfffeYou ran away...
