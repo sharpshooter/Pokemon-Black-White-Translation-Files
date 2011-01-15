@@ -39,7 +39,7 @@ A communication error has occured.\xfffeYou have been disconnected from\xfffeNin
 ほんとうに こうしん しても\xfffeよろしいですか？\xfffe\xfffeちゅうい\xfffeいま とうろく している\xfffeＷｉ－Ｆｉたいかいは\xfffeさんかが かいじょに なります
 ほんたいの むせんつうしんが\xfffeオフに なっています\xfffeほんたいせっていで むせんつうしんを\xfffeオンに してください\xfffe（５０６９９）
 あいてとの せつぞくが\xfffeせつだん されました
-つうしんエラーが はっせいしました\xfffeでんげんを きってください
+A communication error has occured.\xfffePlease turn off the DS system.
 ほんたいの\xfffeＷｉ－Ｆｉユーザーじょうほう が\xfffeきえた かのうせい が あります\xfffe\xfffeほんたい せっていの\xfffeインターネットの せってい で\xfffeせつぞくさきの せってい を\xfffeごかくにん ください
 Ｗｉ－Ｆｉコネクションでは\xfffeセーブデータと ほんたいを\xfffeセットで あつかいます\xfffeセーブデータに ほんたいの\xfffeＷｉ－Ｆｉユーザーじょうほう を\xfffeほぞん して\xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく しますか？
 この ほんたいの\xfffeＷｉ－Ｆｉユーザーじょうほう を\xfffeセーブデータに\xfffeほぞん しました\xfffeこんごの Ｗｉ－Ｆｉコネクションへの\xfffeせつぞくは\xfffeこの ほんたいを\xfffeおつかい ください
